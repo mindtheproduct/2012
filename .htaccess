@@ -1,0 +1,7 @@
+AuthUserFile /home/00000/domains/example.com/html/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Authentication Pop Up"
+AuthType Basic
+<LIMIT POST GET>
+require user username
+</LIMIT> 
