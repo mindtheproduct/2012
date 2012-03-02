@@ -1,0 +1,1145 @@
+/* --------------------------------------------------------
+Site: Mind the Product
+URL: http://www.mindtheproduct.com/
+Author: Jena Birch & Kat Neville, http://thisiscapra.com/
+Updated: 02.03.2012
+--------------------------------------------------------- */
+
+/* colours */
+@white: #fff;
+@black: #000;
+@grey: #a1a1a1;
+@light-grey: #ccc;
+@dark-grey: #444;
+@pale-blue: #bae5fb;
+@bright-blue: #3fbded;
+@medium-blue: #0581b0;
+@shadow-blue: #4d90ab;
+
+/* round corners */
+.round (@radius: 5px){
+  -webkit-border-radius: @radius;
+  -moz-border-radius: @radius;
+  -o-border-radius: @radius;
+  border-radius: @radius;
+  behavior: url(PIE.htc);
+}
+
+/* ------------------------------
+global mixins
+------------------------------ */
+
+body{
+	background-image: url(../images/bg.gif);
+	background-color: #6ecff6;
+  font-size: 62.5%;
+  font-family: museo, georgia, serif;
+  font-style: italic;
+  color: @black;
+}
+
+a{
+	color: @medium-blue;
+	text-decoration: none;
+	&:hover{
+		color: #034c67;
+	}
+}
+
+p{
+  font-size: 1.4em;
+  line-height: 1.5;
+  margin-bottom: 15px;
+  &.dark{
+		font-size: 1.6em;
+		line-height: 1.1;
+		font-family: "futura-pt", arial, sans-serif;
+		font-style: normal;
+		text-transform: uppercase;
+		margin-bottom: 60px;
+	}
+	&.intro{
+		font-size: 2.0em;
+		line-height: 1.2;
+		color: @white;
+		width: 76%;
+	}
+}
+
+ul{
+	list-style-type: none;
+}
+
+/* headings */
+h1, h2, h3, h4, h5, h6{
+	font-weight: normal;
+	font-family: "futura-pt", helvetica, arial, sans-serif;
+	font-style: normal;
+	color: @white;
+	text-transform: uppercase;
+}
+
+h2{
+	font-size: 6.0em;
+	line-height: 1.1em;
+	font-family: helvetica, arial, sans-serif;
+	font-weight: 600;
+	margin-bottom: 12px;
+	text-shadow: 0px -1px 0px @shadow-blue; 		
+	-moz-text-shadow: 0px -1px 0px @shadow-blue; 
+	-webkit-text-shadow: 0px -1px 0px @shadow-blue; 
+	behavior: url(PIE.htc);
+}
+
+h3{
+	font-size: 4.0em;
+}
+
+h4{
+	font-size: 1.6em;
+}
+
+/* ------------------------------
+main elements
+------------------------------ */
+
+#global-container{
+	width: 100%;
+	position: relative;
+}
+
+#start-page, #speakers, #schedule, #location, #the-team{
+	height: 1140px;
+	width: 100%;
+	position: relative;
+}
+
+.content{
+	width: 960px;
+	margin: 0 auto;
+	position: relative;
+	.indent{
+		margin-left: 170px;
+		width: 58%;
+	}
+}
+
+.clear{
+	clear: both;
+}
+
+/* ------------------------------
+header
+------------------------------ */
+
+.header{
+	width: 960px;
+	margin: 0 auto;
+	padding-bottom: 120px;
+	a.logo{
+		float: left;
+		margin: 26px 0 0 50px;
+		width: 438px;
+		height: 106px;
+		background: url(../images/logo.png) no-repeat;
+		text-indent: -9999px;
+	}
+}
+
+.buy-tickets{
+	float: right;
+	width: 194px;
+	text-align: center;
+	position: relative;
+	a.tab{
+		font-size: 2.4em;
+		display: block;
+		padding: 10px 20px 6px 20px;
+		color: @dark-grey;
+		text-transform: uppercase;
+		font-style: normal;
+		background: @white;
+		border: 10px solid @pale-blue;
+		border-top: none;
+		.round (0 0 20px 20px);
+		-moz-box-shadow: 0px 1px 2px 0px @shadow-blue; 
+		-webkit-box-shadow: 0px 1px 2px 0px @shadow-blue; 
+		box-shadow: 0px 1px 2px 0px @shadow-blue;
+		behavior: url(PIE.htc);
+		&:hover{
+			padding-top: 13px;
+		}
+	}
+	.price{
+		top: 61px;
+		left: 15px;
+		font-size: 3.0em;
+		position: absolute;
+		color: @medium-blue;
+	}
+}
+
+/* ------------------------------
+main-nav
+------------------------------ */
+
+ul.main-nav{
+	float: left;
+	margin: 4px 0 0 10px;
+	width: 100px;
+	z-index: 1000;
+	li{
+		font-family: "futura-pt", helvetica, arial, sans-serif;
+		font-style: normal;
+		text-transform: uppercase;
+		display: block;
+		font-size: 1.6em;
+		a{
+			padding-left: 19px;
+			&:hover{
+				color: @white;
+			}
+			&.selected{
+				color: @white;
+				background-image: url(../images/nav-bullet.png);
+				background-position: 0 4px;
+				background-repeat: no-repeat;
+			}
+		}
+	}
+}
+
+/* ------------------------------
+top-bar
+------------------------------ */
+
+.top-bar{
+	width: 100%;
+	background: url(../images/top-bar-bg.png) repeat;
+	padding: 4px 0;
+	margin: 0 0 60px 0;
+	border-top: 1px solid #00aeef;
+	.content{
+		position: relative;
+	}
+	img.logo-small{
+		float: left;
+		margin: -1px 0 0 10px;
+	}
+	p{
+		float: right;
+		margin: 2px 160px 0 0;
+		font-size: 1.2em;
+		padding: 5px 0;
+	}
+	a{
+		&.facebook, &.twitter{
+			display: inline-block;
+			height: 18px;
+			width: 14px;
+			vertical-align: middle;
+		}
+		&.facebook{
+			background: url(../images/facebook-small.png) no-repeat 0 0;
+			margin: 0 1px 0 9px;
+		}
+		&.twitter{
+			background: url(../images/twitter-small.png) no-repeat 0 0;
+		}
+	}
+	.buy-tickets{
+		margin-right: 0;
+		position: absolute;
+		top: -4px;
+		right: 0;
+		width: 147px;
+		a.tab{
+			font-size: 1.8em;
+			padding: 10px 14px 6px 14px;
+			&:hover{
+				padding-top: 13px;
+			}
+		}
+	}
+	h3{
+		position: absolute;
+		top: -5px;
+		left: 144px;
+		background: url(../images/title-circle.png) no-repeat;
+		width: 313px;
+		height: 158px;
+		text-align: center;
+		padding-top: 50px;
+	}
+}
+
+/* ------------------------------
+speakers
+------------------------------ */
+
+.speaker-left, .speaker-right{
+	position: absolute;
+	width: 395px;
+	height: 198px;
+	.white-bg{
+		width: 198px;
+		height: 198px;
+		background: url(../images/photo-circle.png) no-repeat;
+	}
+	img{
+		padding: 24px;
+	}
+	h4{
+		margin-top: 40px;
+	}
+	p{
+		&.speciality{
+			font-size: 1.3em;
+			font-weight: bold;
+			font-family: "futura-pt", arial, sans-serif;
+			font-style: normal;
+			text-transform: lowercase;
+			color: #213942;
+			margin-bottom: 4px;
+		}
+		&.info{
+			color: @black;
+			font-size: 1.2em;
+			font-family: museo, georgia, serif;
+			margin-bottom: 5px;
+		}
+	}
+	a{
+		&.twitter{
+			font-size: 1.5em;
+			padding-left: 20px;
+			color: @medium-blue;
+			background: url(../images/blue-twitter-small.png) no-repeat left;
+		}
+		&:hover{
+			color: #034c67;
+		}
+	}
+}
+
+.speaker-left{
+	text-align: right;
+	.white-bg{
+		float: right;
+		margin-left: 20px;
+	}
+}
+
+.speaker-right{
+	text-align: left;
+	.white-bg{
+		float: left;
+		margin-right: 20px;
+	}
+}
+
+.first{
+	&.speaker-right{
+		left: 444px;
+		top: 97px;
+		h4{
+			margin-top: 30px;
+		}
+	}
+	&.speaker-left{
+		left: 72px;
+		top: 113px;
+	}
+}
+
+.second{
+	&.speaker-right{
+		left: 545px;
+		top: 242px;
+	}
+	&.speaker-left{
+		left: 173px;
+		top: 258px;
+		h4{
+			margin-top: 58px;
+		}
+	}
+}
+
+.third{
+	&.speaker-right{
+		left: 472px;
+		top: 403px;
+	}
+	&.speaker-left{
+		left: 100px;
+		top: 419px;
+	}
+}
+
+.fourth{
+	&.speaker-right{
+		left: 399px;
+		top: 564px;
+	}
+	&.speaker-left{
+		left: 27px;
+		top: 580px;
+	}
+}
+
+/* ------------------------------
+schedule
+------------------------------ */
+
+#schedule{
+	table{
+		margin: 130px 0 0 60px;
+		display: block;
+		float: left;
+		color: @white;
+		font-size: 2.2em;
+		font-family: "futura-pt", arial, sans-serif;
+		font-style: normal;
+		text-transform: uppercase;
+		tr{
+			td{
+				padding-right: 42px;
+				padding-bottom: 6px;
+				&.space{
+					padding-top: 100px;
+				}
+			}
+		}
+	}
+}
+
+/* ------------------------------
+location
+------------------------------ */
+
+.map{
+	position: relative;
+	z-index: -1;
+	img{
+		&#map-image{
+			margin-top: -60px;
+			margin-left: -16px;
+			position: relative;
+		}
+	}
+}
+	
+.map-overlay{
+	width: 340px;
+	height: 300px;
+	position: absolute;
+	top: 40px;
+	left: 460px;
+	.pointer{
+		width: 54px;
+		height: 72px;
+		position: absolute;
+		top: 22px;
+		left: 6px;
+		background: url(../images/pointer.png) no-repeat;
+	}
+	.speech-bubble{
+		position: absolute;
+		right: 0;
+		width: 285px;
+		height: 269px;
+		background: url(../images/speech-bubble.png) no-repeat;
+		h4, p{
+			margin-left: 100px;
+			margin-top: 50px;
+			width: 100px;
+			color: @medium-blue;
+			line-height: 1.1;
+		}
+		h4{
+			font-size: 2.0em;
+		}
+		p{
+		 	font-family: "futura-pt", arial, sans-serif;
+		 	font-style: normal;
+			text-transform: uppercase;
+			&.address{
+				margin-top: 15px;
+				font-size: 1.2em;
+			}
+		}
+		a.get-directions{
+			color: @white;
+			background: @bright-blue;
+			text-transform: uppercase;
+			font-family: "futura-pt", arial, sans-serif;
+			font-style: normal;
+			font-size: 2.0em;
+			position: absolute;
+			bottom: 0px;
+			right: 22px;
+			padding: 6px 28px;
+			border: 10px solid @medium-blue;
+			.round(16px);
+		}
+	}
+}
+
+img#theatre{
+	position: absolute;
+	top: 200px;
+	right: 0;
+	z-index: -1;
+}
+
+/* ------------------------------
+the team
+------------------------------ */
+
+#the-team{
+	.content{
+		.indent{
+			p{
+				margin-bottom: 25px;
+				width: 76%;
+				&.intro{
+					padding-top: 130px;
+					color: @white;
+				}
+				&.last{
+					margin-top: 40px;
+				}
+				a{
+					text-decoration: underline;
+				}
+				img{
+					display: block;
+					margin-top: 6px;
+				}
+			}
+		}
+	}
+}
+
+.blockquote-circle{
+  background: url(../images/blockquote-circle.png) no-repeat 100% 0;
+	blockquote{
+	  font-family: "futura-pt", arial, sans-serif;
+	  font-style: normal;
+	  font-size: 1.5em;
+	  color: @white;
+	  text-transform: uppercase;
+	  width: 220px;
+	  padding-top: 80px;
+	  position: absolute;
+	  top: 190px;
+	  right: 26px;
+	  background: url(../images/quotes.png) no-repeat 0 0;
+	}
+}
+
+.team-image{
+	position: absolute;
+	top: 480px;
+	right: 50px;
+	width: 347px;
+	height: 347px;
+	background: url(../images/the-team-bg.png);
+	img{
+		padding: 29px;
+	}
+}
+
+
+/* ------------------------------
+footer
+------------------------------ */
+
+#footer{
+	width: 100%;
+	background: url(../images/top-bar-bg.png);
+	clear: both;
+	text-align: center;
+	padding: 16px 0;
+	ul{
+		li{
+			display: inline;
+			a{
+				color: @black;
+				font-size: 1.4em;
+				text-decoration: underline;
+				&:hover{
+					color: @white;
+				}
+				&.twitter{
+					padding-left: 26px;
+					background: url(../images/twitter-large.png) no-repeat;
+					margin-right: 38px;
+				}
+				&.facebook{
+					padding-left: 26px;
+					background: url(../images/facebook-large.png) no-repeat;
+				}
+			}
+		}
+	}
+}
+
+/* ------------------------------
+ticket
+------------------------------ */
+
+.ticket{
+	width: 180px;
+	height: 177px;
+	overflow: hidden;
+	position: absolute;
+	top: 215px;
+	right: 0px;
+	background-image: url(../images/ticket.png);
+}
+
+/* ------------------------------
+background circles
+------------------------------ */
+
+.lbc-1, .lwc-1, .lwc-2, .rbc-1, .rwc-1, .rwc-2, .rwc-3, .sponsors-circle, 
+.blockquote-circle, .lbc-2, .rwc-4, .rbc-2, .rwc-5, .double-circle-1, .lbc-3,
+.lbc-4, .lwc-3, .rbc-3, .double-circle-2, .lbc-5, .blockquote-circle, .rwc-6{
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+}
+
+/* left background circles */
+.lbc-1{
+	background: url(../images/lbc-1.png) no-repeat 0 0;
+}
+
+.lwc-1{
+	background: url(../images/lwc-1.png) no-repeat 0 0;
+}
+
+.lwc-2{
+	background: url(../images/lwc-2.png) no-repeat 0 0;
+}
+
+.lbc-2{
+	background: url(../images/lbc-2.png) no-repeat 0 0;
+}
+
+.double-circle-1{
+	background: url(../images/double-circle-1.png) no-repeat 0 0;
+}
+
+.lbc-3{
+	background: url(../images/lbc-3.png) no-repeat 0 0;
+}
+
+.lbc-4{
+	background: url(../images/lbc-4.png) no-repeat 0 0;
+	z-index: -1;
+}
+
+.lwc-3{
+	background: url(../images/lwc-3.png) no-repeat 0 0;
+}
+
+.double-circle-2{
+	background: url(../images/double-circle-2.png) no-repeat 0 0;
+}
+
+.lbc-5{
+	background: url(../images/lbc-5.png) no-repeat 0 0;
+}
+
+
+/* right background circles */
+.rbc-1{
+	background: url(../images/rbc-1.png) no-repeat 100% 0;
+}
+
+.rwc-1{
+	background: url(../images/rwc-1.png) no-repeat 100% 0;
+}
+
+.rwc-2{
+	z-index: -2;
+	background: url(../images/rwc-2.png) no-repeat 100% 0;
+	.sponsors-small{
+		position: absolute;
+		top: 560px;
+		width: 200px;
+		right: 60px;
+		text-align: left;
+		a.text-indent{
+			text-indent: -9999;
+		}
+		p{
+			font-size: 1.5em;
+			text-transform: uppercase;
+			color: @bright-blue;
+			font-family: "futura-pt", arial, sans-serif;
+			font-style: normal;
+			font-weight: 500;
+			margin-bottom: 34px;
+		}
+		img{
+			margin-bottom: 14px;
+			&.last{
+				margin-left: 5px;
+			}
+		}
+	}
+}
+
+.rwc-3{
+	z-index: -1;
+	background: url(../images/rwc-3.png) no-repeat 100% 0;
+}
+
+.sponsors-circle{
+	background: url(../images/sponsors-circle.png) no-repeat 100% 0;
+	.sponsors-large{
+		float: right;
+		margin-top: 128px;
+		margin-right: 30px;
+		width: 310px;
+		height: 500px;
+		p{
+			font-size: 1.5em;
+			text-align: center;
+			text-transform: uppercase;
+			color: @bright-blue;
+			font-family: "futura-pt", arial, sans-serif;
+			font-style: normal;
+			font-weight: 500;
+			margin-bottom: 26px;
+		}
+		.sponsor-large{
+			width: 310px;
+			height: 70px;
+			border: 1px solid @medium-blue;
+			margin-bottom: 5px;
+			&.space{
+				margin-bottom: 15px;
+			}
+		}
+		.sponsor-medium{
+			width: 142px;
+			height: 50px;
+			float: left;
+			margin-bottom: 5px;
+			border: 1px solid @medium-blue;
+			&.right{
+				float: right;
+			}
+			&.space{
+				margin-bottom: 15px;
+			}
+		}
+		.sponsor-small{	
+			width: 80px;
+			height: 35px;
+			float: left;
+			border: 1px solid @medium-blue;
+			margin-bottom: 2px;
+			&.middle{
+				margin-left: 32px;
+			}
+			&.right{
+				float: right;
+			}
+		}
+	}
+}
+
+.rwc-4{
+	background: url(../images/rwc-4.png) no-repeat 100% 0;
+	z-index: -1;
+}
+
+.rbc-2{
+	background: url(../images/rbc-2.png) no-repeat 100% 0;
+	z-index: -1;
+}
+
+.rwc-5{
+	background: url(../images/rwc-5.png) no-repeat 100% 0;
+	z-index: -1;
+}
+
+.rbc-3{
+	background: url(../images/rbc-3.png) no-repeat 100% 0;
+}
+
+.rwc-6{
+	background: url(../images/rwc-6.png) no-repeat 100% 0;
+}
+
+.space{
+	margin-bottom: 15px;
+}
+
+/* ------------------------------
+media queries
+------------------------------ */
+
+@media only screen and (max-width: 480px){
+
+	#global-container{
+		width: 100%;
+		margin: 0 auto;
+	}
+	
+	#start-page, #speakers, #schedule, #location, #the-team{
+		width: 100%;
+		height: 100%;
+		margin: 0 auto;
+		padding-bottom: 25px;
+	}
+	
+	#speakers, #schedule, #location, #the-team{
+		.top-bar{
+			margin-bottom: 115px;
+		}
+		ul.main-nav{
+			display: none;
+		}
+	}
+
+	.lbc-1, .lwc-1, .lwc-2, .rwc-2, .rbc-1, .rwc-1, .rwc-3, 
+	.blockquote-circle, .lbc-2, .rwc-4, .rbc-2, .rwc-5, .double-circle-1, .lbc-3,
+	.lbc-4, .lwc-3, .rbc-3, .double-circle-2, .lbc-5, .blockquote-circle, .rwc-6, .ticket,
+	img#theatre, .map{
+		display: none;
+	}
+	
+	.header{
+		width: 90%;
+		padding-bottom: 30px;
+		a.logo{
+			margin: 0 auto;
+			margin-top: 15px;
+			margin-bottom: 20px;
+			width: 272px;
+			height: 66px;
+			background: url(../images/logo-mobile.png) no-repeat;
+		}
+	}
+	
+	h2{
+		font-size: 4.0em;
+		margin-top: 50px;
+	}
+	
+	ul.main-nav{
+		float: none;
+		margin: 0;
+		width: 100%;
+		margin-bottom: 30px;
+		li{
+			display: block;
+			font-size: 1.8em;
+			background: #45c3f3;
+			border-bottom: 1px solid #3eb1dc;
+			border-top: 1px solid #66d5ff;
+			a{
+				padding: 8px 0;
+				width: 100%;
+				display: block;
+				padding-left: 15px;
+				&.selected{
+					color: @white;
+					background-image: none;
+				}
+			}
+		}
+	}
+	
+	.buy-tickets{
+		float: left;
+		width: 100%;
+		a.tab{
+			float: left;
+			font-size: 2.0em;
+			width: auto;
+			padding: 6px 18px;
+			color: @dark-grey;
+			border: 8px solid @pale-blue;
+			border-top: 8px solid @pale-blue;
+			.round (20px);
+			-moz-box-shadow: 0px 1px 2px 0px @shadow-blue; 
+			-webkit-box-shadow: 0px 1px 2px 0px @shadow-blue; 
+			box-shadow: 0px 1px 2px 0px @shadow-blue;
+			behavior: url(PIE.htc);
+			&:hover{
+				padding-top: 6px;
+			}
+		}
+		.price{
+			float: left;
+			font-size: 2.5em;
+			margin: 15px 0 0 15px;
+			position: static;
+			color: @medium-blue;
+		}
+	}
+	
+	.content{
+		width: 90%;
+		.indent{
+			margin-left: 0px;
+			width: 100%;
+		}
+	}
+	
+	p{
+	  &.dark{
+			margin-bottom: 20px;
+		}
+		&.intro{
+			width: 100%;
+		}
+	}
+	
+	.top-bar{
+		width: 100%;
+		background: url(../images/top-bar-bg.png) repeat;
+		height: 14px;
+		margin: 0 0 60px 0;
+		.content{
+			position: relative;
+		}
+		img.logo-small{
+			display: none;
+		}
+		p{
+			display: none;
+		}
+		.buy-tickets{
+			display: none;
+		}
+		h3{
+			position: absolute;
+			left: 0;
+			background: url(../images/title-circle-mobile.png) no-repeat;
+			width: 219px;
+			height: 111px;
+			padding-top: 32px;
+			font-size: 3.0em;
+		}
+	}
+	
+	.speaker-left, .speaker-right{
+		float: left;
+		position: static;
+		width: 100%;
+		height: auto;
+		.white-bg{
+			display: none;
+		}
+		img{
+			padding: 24px;
+		}
+		h4{
+			margin-top: 20px;
+		}
+		p{
+			&.info{
+				
+			}
+		}
+	}
+	
+	.speaker-left{
+		text-align: left;
+		.white-bg{
+			float: left;
+			margin-left: 20px;
+		}
+	}
+	
+	.speaker-right{
+		text-align: left;
+		.white-bg{
+			float: left;
+			margin-right: 20px;
+		}
+	}
+	
+	.first{
+		&.speaker-right{
+			h4{
+				margin-top: 0;
+			}
+		}
+	}
+	
+	.second{
+		&.speaker-left{
+			h4{
+				margin-top: 20px;
+			}
+		}
+	}
+	
+		#schedule{
+		table{
+			margin: 0;
+			font-size: 2.0em;
+			tr{
+				td{
+					&.space{
+						padding-top: 40px;
+					}
+				}
+			}
+		}
+	}
+	
+	#footer ul li a.twitter{
+		margin-right: 8px;
+	}
+	
+	.map-overlay{
+		width: 100%;
+		height: auto;
+		margin-bottom: 20px;
+		position: static;
+		background: none;
+		.round (100px 100px 0 0);
+		.pointer{
+			display: none;
+		}
+		.speech-bubble{
+			position: static;
+			width: 100%;
+			height: auto;
+			background: none;
+			text-align: left;
+			h4, p{
+				margin-left: 0px;
+				width: 100%;
+				color: @white;
+			}
+			h4{
+				font-size: 2.4em;
+				padding-top: 0px;
+			}
+			p{
+				&.address{
+					margin-top: 15px;
+					margin-bottom: 30px;
+					line-height: 1.2;
+					font-size: 1.8em;
+					color: @medium-blue;
+				}
+			}
+			a.get-directions{
+				position: static;
+				display: block;
+				text-align: center;
+				background: @white;
+				padding: 6px 18px;
+				color: @dark-grey;
+				border: 8px solid @pale-blue;
+				border-top: 8px solid @pale-blue;
+				.round (20px);
+				-moz-box-shadow: 0px 1px 2px 0px @shadow-blue; 
+				-webkit-box-shadow: 0px 1px 2px 0px @shadow-blue; 
+				box-shadow: 0px 1px 2px 0px @shadow-blue;
+				behavior: url(PIE.htc);
+				.round(14px);
+			}
+		}
+	}			
+	
+	#the-team{
+		.content{
+			.indent{
+				p{
+					margin-bottom: 25px;
+					width: 100%;
+					&.intro{
+						padding-top: 0;
+					}
+				}
+			}
+		}
+	}
+	
+	.team-image{
+		display: none;
+	}
+	
+	.sponsors-circle{
+		background: none;
+		position: static;
+		width: 80%;
+		float: left;
+		padding-left: 15px;
+		margin: 0 auto;
+		height: auto;
+		padding-top: 30px;
+		text-align: left;
+		.sponsors-large{
+			margin: 0 auto;
+			float: left;
+			margin-top: 0;
+			width: 310px;
+			height: 500px;
+			p{
+				color: @medium-blue;
+				margin-bottom: 15px;
+				text-align: left;
+			}
+			.sponsor-large{
+				width: 100%;
+				height: 70px;
+				border: 1px solid @medium-blue;
+				margin-bottom: 5px;
+				&.space{
+					margin-bottom: 15px;
+				}
+			}
+			.sponsor-medium{
+				width: 48%;
+				height: 50px;
+				float: left;
+				margin-bottom: 5px;
+				border: 1px solid @medium-blue;
+				&.right{
+					float: right;
+				}
+				&.space{
+					margin-bottom: 15px;
+				}
+			}
+			.sponsor-small{	
+				width: 28%;
+				height: 35px;
+				float: left;
+				border: 1px solid @medium-blue;
+				margin-bottom: 2px;
+				&.middle{
+					margin-left: 22px;
+				}
+				&.right{
+					float: right;
+					}
+				}
+		}
+	}
+
+
+	
+	#schedule{
+		height: 1170px;
+	}
+	
+}
+
