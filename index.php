@@ -155,21 +155,21 @@
 						<div class="white-bg">
 							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Coming soon!</h4>
+						<h4>more</h4>
 					</div> <!-- end third speaker-left -->
 
 					<div class="fourth speaker-right">
 						<div class="white-bg">
 							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Coming soon!</h4>
+						<h4>great</h4>
 					</div> <!-- end fourth speaker-right -->
 
 					<div class="fourth speaker-left">
 						<div class="white-bg">
 							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Coming soon!</h4>
+						<h4>speakers</h4>
 					</div> <!-- end fourth speaker-left -->
 
 				
