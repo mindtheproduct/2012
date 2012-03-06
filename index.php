@@ -161,8 +161,10 @@
 						<p class="speciality">speciality goes here</p>
 						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
 						<a class="twitter" href="#">bfmartin</a>
-					</div><!-- end third speaker-left -->
+					</div> end third speaker-left -->
 					
+				<!--
+
 					<div class="fourth speaker-right">
 						<div class="white-bg">
 							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
@@ -171,8 +173,10 @@
 						<p class="speciality">speciality goes here</p>
 						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
 						<a class="twitter" href="#">bfmartin</a>
-					</div><!-- end fourth speaker-right -->
+					</div> end fourth speaker-right -->
 					
+				<!--
+
 					<div class="fourth speaker-left">
 						<div class="white-bg">
 							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
@@ -181,9 +185,9 @@
 						<p class="speciality">speciality goes here</p>
 						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
 						<a class="twitter" href="#">bfmartin</a>
-					</div><!-- end fourth speaker-left -->
+					</div> end fourth speaker-left -->
 
-				-->
+				
 
 					<div class="clear"></div>
 				</div><!-- end content -->
