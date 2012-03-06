@@ -280,7 +280,7 @@
 						</tr>
 						<tr>
 							<td>17.45</td>
-							<td>Speaker 8</td>
+							<td>Panel - What's next for Product Management?</td>
 						</tr>
 						<tr>
 							<td>18.15</td>
@@ -288,7 +288,7 @@
 						</tr>
 						<tr>
 							<td class="space">19.00</td>
-							<td class="space">After party</td>
+							<td class="space">After party!</td>
 						</tr>
 					</table>
 					
@@ -302,6 +302,9 @@
 				<!-- right background circles -->
 				<div class="rwc-4"></div>
 				<div class="sponsors-circle">
+					
+					<!--
+
 					<div class="sponsors-large">
 						<p>Brought to you by</p>
 						<div class="sponsor-large"><img src="#" width="#" height="#" alt="#" /></div>
@@ -318,7 +321,11 @@
 						<div class="sponsor-small"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-small middle"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-small right"><img src="#" width="#" height="#" alt="#" /></div>
-					</div><!-- end sponsors-large -->
+					</div>
+
+					-->
+
+					<!-- end sponsors-large -->
 				</div><!-- end sponsors-circle -->
 				<div class="rbc-2"></div>
 				<div class="rwc-5"></div>
