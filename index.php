@@ -150,42 +150,27 @@
 						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
 						<a class="twitter" href="http://twitter.com/nicnewman">nicnewman</a>
 					</div><!-- end third speaker-right -->
-					
-				<!--
 
 					<div class="third speaker-left">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Martin Erikkson</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
-						<a class="twitter" href="#">bfmartin</a>
-					</div> end third speaker-left -->
-					
-				<!--
+						<h4>Coming soon!</h4>
+					</div> <!-- end third speaker-left -->
 
 					<div class="fourth speaker-right">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Martin Erikkson</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
-						<a class="twitter" href="#">bfmartin</a>
-					</div> end fourth speaker-right -->
-					
-				<!--
+						<h4>Coming soon!</h4>
+					</div> <!-- end fourth speaker-right -->
 
 					<div class="fourth speaker-left">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Martin Erikkson</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
-						<a class="twitter" href="#">bfmartin</a>
-					</div> end fourth speaker-left -->
+						<h4>Coming soon!</h4>
+					</div> <!-- end fourth speaker-left -->
 
 				
 
