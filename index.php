@@ -151,25 +151,25 @@
 						<a class="twitter" href="http://twitter.com/nicnewman">nicnewman</a>
 					</div><!-- end third speaker-right -->
 
-					<div class="third speaker-left">
+					<div class="third speaker-left speaker-tbc">
 						<div class="white-bg">
 							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>more</h4>
+						<h4>Coming soon</h4>
 					</div> <!-- end third speaker-left -->
 
-					<div class="fourth speaker-right">
+					<div class="fourth speaker-right speaker-tbc">
 						<div class="white-bg">
 							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>great</h4>
+						<h4>Coming soon</h4>
 					</div> <!-- end fourth speaker-right -->
 
-					<div class="fourth speaker-left">
+					<div class="fourth speaker-left speaker-tbc">
 						<div class="white-bg">
 							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>speakers</h4>
+						<h4>Coming soon</h4>
 					</div> <!-- end fourth speaker-left -->
 
 				

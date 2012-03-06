@@ -89,7 +89,6 @@ main elements
 #location,
 #the-team {
   height: 1140px;
-  min-width: 960px;
   width: 100%;
   position: relative;
 }
@@ -163,7 +162,6 @@ main-nav
 ul.main-nav {
   float: left;
   margin: 4px 0 0 10px;
-  white-space: nowrap;
   width: 100px;
   z-index: 1000;
 }
@@ -302,6 +300,9 @@ speakers
 .speaker-right .white-bg {
   float: left;
   margin-right: 20px;
+}
+.speaker-tbc {
+  margin-top: 85px;
 }
 .first.speaker-right {
   left: 444px;
