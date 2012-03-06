@@ -113,7 +113,7 @@
 					
 					<div class="first speaker-left">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/tom_hulme.png" width="152" height="152" alt="Speaker 1" />
 						</div>
 						<h4>Martin Erikkson</h4>
 						<p class="speciality">speciality goes here</p>
@@ -123,7 +123,7 @@
 					
 					<div class="second speaker-right">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/tom_loosemore.png" width="152" height="152" alt="Speaker 1" />
 						</div>
 						<h4>Martin Erikkson</h4>
 						<p class="speciality">speciality goes here</p>
