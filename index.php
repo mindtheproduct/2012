@@ -434,7 +434,7 @@
 					designers and marketers to socialise with like-minded people.</blockquote>
 				</div><!-- end blockquote-circle -->
 				<div class="rwc-6"></div>
-				<div class="team-image"><img src="images/the-team.png" /></div>
+				<div class="team-image"><img src="images/producttank_eric_ries.png" /></div>
 			</div>
 			<!-- END THE TEAM -->
 			
