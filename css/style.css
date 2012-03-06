@@ -89,6 +89,7 @@ main elements
 #location,
 #the-team {
   height: 1140px;
+  min-width: 960px;
   width: 100%;
   position: relative;
 }
@@ -162,6 +163,7 @@ main-nav
 ul.main-nav {
   float: left;
   margin: 4px 0 0 10px;
+  white-space: nowrap;
   width: 100px;
   z-index: 1000;
 }
@@ -287,8 +289,8 @@ speakers
 .speaker-left a:hover, .speaker-right a:hover {
   color: #034c67;
 }
-h4.speaker-tbc {
-  margin-top: 85px;
+.speaker-tbc h4 {
+  margin-top: 85px !important;
 }
 .speaker-left {
   text-align: right;
