@@ -107,7 +107,7 @@
 						</div>
 						<h4>Marty Cagan</h4>
 						<p class="speciality">Managing Partner, SVPG</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
+						<p class="info">20 year veteran product manager, formerly VP of Product at eBay, AOL and Netscape.</p>
 						<a class="twitter" href="http://twitter.com/cagan">cagan</a>
 					</div><!-- end first speaker-right -->
 					
@@ -117,7 +117,7 @@
 						</div>
 						<h4>Alex Rainert</h4>
 						<p class="speciality">Head of Product, Foursquare</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
+						<p class="info">Co-founder of Dodgeball, now leading the product team at Foursquare.</p>
 						<a class="twitter" href="http://twitter.com/arainert">arainert</a>
 					</div><!-- end first speaker-left -->
 					
@@ -127,7 +127,7 @@
 						</div>
 						<h4>Tom Loosemore</h4>
 						<p class="speciality">Deputy Director, Government Digital Services</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
+						<p class="info">Building gov.uk - a user centred single domain website for the UK Government.</p>
 						<a class="twitter" href="http://twitter.com/tomskitomski">tomskitomski</a>
 					</div><!-- end second speaker-right -->
 					
@@ -137,7 +137,7 @@
 						</div>
 						<h4>Tom Hulme</h4>
 						<p class="speciality">Design Director, IDEO<br>Founder, OpenIDEO</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
+						<p class="info">A serial entrepreneur and angel investor, he has first-hand experience in building successful businesses.</p>
 						<a class="twitter" href="http://twitter.com/thulme">thulme</a>
 					</div><!-- end second speaker-left -->
 					
@@ -146,8 +146,8 @@
 							<img src="images/nic_newman.png" width="152" height="152" alt="Nic Newman" />
 						</div>
 						<h4>Nic Newman</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
+						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
+						<p class="info">Former Head of Product Development and Controller Future Media, Journalism at the BBC.</p>
 						<a class="twitter" href="http://twitter.com/nicnewman">nicnewman</a>
 					</div><!-- end third speaker-right -->
 
