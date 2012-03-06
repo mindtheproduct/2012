@@ -263,6 +263,9 @@ speakers
 .speaker-left h4, .speaker-right h4 {
   margin-top: 40px;
 }
+.speaker-left h4.speaker-tbc, .speaker-right h4.speaker-tbc {
+  margin-top: 85px;
+}
 .speaker-left p.speciality, .speaker-right p.speciality {
   font-size: 1.3em;
   font-weight: bold;
@@ -300,9 +303,6 @@ speakers
 .speaker-right .white-bg {
   float: left;
   margin-right: 20px;
-}
-.speaker-tbc {
-  margin-top: 85px;
 }
 .first.speaker-right {
   left: 444px;
