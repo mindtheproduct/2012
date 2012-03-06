@@ -107,7 +107,7 @@
 						</div>
 						<h4>Marty Cagan</h4>
 						<p class="speciality">Managing Partner, SVPG</p>
-						<p class="info">20 years experience, formerly VP of Product at eBay, AOL and Netscape.</p>
+						<p class="info">Former VP of Product at eBay, AOL and Netscape.</p>
 						<a class="twitter" href="http://twitter.com/cagan">cagan</a>
 					</div><!-- end first speaker-right -->
 					
@@ -117,7 +117,7 @@
 						</div>
 						<h4>Alex Rainert</h4>
 						<p class="speciality">Head of Product, Foursquare</p>
-						<p class="info">Co-founder of Dodgeball, now leading the product team at Foursquare.</p>
+						<p class="info">Co-founder of Dodgeball, obsessed with information, design, and emerging technology.</p>
 						<a class="twitter" href="http://twitter.com/arainert">arainert</a>
 					</div><!-- end first speaker-left -->
 					
@@ -137,7 +137,7 @@
 						</div>
 						<h4>Tom Hulme</h4>
 						<p class="speciality">Design Director, IDEO<br>Founder, OpenIDEO</p>
-						<p class="info">Serial entrepreneur and angel investor.</p>
+						<p class="info">Serial entrepreneur and investor.</p>
 						<a class="twitter" href="http://twitter.com/thulme">thulme</a>
 					</div><!-- end second speaker-left -->
 					
