@@ -288,13 +288,18 @@
 				<div class="rwc-4"></div>
 				<div class="sponsors-circle">
 					
-					<!--
+					
 
 					<div class="sponsors-large">
 						<p>Brought to you by</p>
+					<!--
 						<div class="sponsor-large"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-large space"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-medium"><img src="#" width="#" height="#" alt="#" /></div>
+					-->
+					
+						<div class="sponsor-medium"><img src="images/pearson.gif" width="142" height="50" alt="Pearson" /></div>
+					
+					<!--
 						<div class="sponsor-medium right"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-medium"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-medium right"><img src="#" width="#" height="#" alt="#" /></div>
@@ -306,9 +311,8 @@
 						<div class="sponsor-small"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-small middle"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-small right"><img src="#" width="#" height="#" alt="#" /></div>
-					</div>
-
 					-->
+					</div>
 
 					<!-- end sponsors-large -->
 				</div><!-- end sponsors-circle -->
