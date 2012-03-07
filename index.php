@@ -61,11 +61,14 @@
 				<div class="rwc-1"></div>
 				<div class="rbc-1"></div>
 				<div class="rwc-2">
+					<!--
 					<div class="sponsors-small">
 						<p>Brought to you by</p>
 						<img src="images/the-guardian.png" width="230" height="41" alt="The Guardian" />
 						<img class="last" src="images/thoughtworks.png" width="221" height="35" alt="Thoughtworks" />
-					</div><!-- end sponsors-small -->
+					</div>
+					-->
+					<!-- end sponsors-small -->
 				</div><!-- rwc-2 -->
 
 				<!-- ticket image -->
