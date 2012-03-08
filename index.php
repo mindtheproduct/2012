@@ -19,21 +19,6 @@
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
 		<?php include('includes/nav-script.inc.php'); ?>
-
-		<script type="text/javascript">
-
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-21862375-4']);
-		  _gaq.push(['_trackPageview']);
-
-		  (function() {
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
-
-		</script>
-
 	</head>
 	
 	<body>
@@ -65,6 +50,11 @@
 						<h2>The business of building great products</h2>
 						<p class="dark">On Friday, September 28th 2012<br /> at the Mermaid Conference Center in London</p>
 						<p class="intro">MindtheProduct 2012 is the first conference of its kind - bringing together product management leaders from around the world to explore the intersection of design, technology and business - the business of building great products.</p>
+						<div class="sponsors-small">
+							<p>Brought to you by</p>
+							<img src="images/thoughtworks.png" width="221" height="35" alt="Thoughtworks" />
+							<img class="last" src="images/the-guardian.png" width="230" height="41" alt="The Guardian" />
+						</div><!-- end sponsors-small -->
 					</div><!-- end indent -->
 				</div><!-- end content -->
 				
@@ -75,16 +65,8 @@
 				<!-- right background circles -->
 				<div class="rwc-1"></div>
 				<div class="rbc-1"></div>
-				<div class="rwc-2">
-					<!--
-					<div class="sponsors-small">
-						<p>Brought to you by</p>
-						<img src="images/the-guardian.png" width="230" height="41" alt="The Guardian" />
-						<img class="last" src="images/thoughtworks.png" width="221" height="35" alt="Thoughtworks" />
-					</div>
-					-->
-					<!-- end sponsors-small -->
-				</div><!-- rwc-2 -->
+				<div class="rwc-2"></div>
+				<img class="conference-image" src="images/conference.png" width="290" height="439" alt="MindtheProduct conference" />
 
 				<!-- ticket image -->
 				<div class="ticket"></div>
@@ -306,18 +288,13 @@
 				<div class="rwc-4"></div>
 				<div class="sponsors-circle">
 					
-					
+					<!--
 
 					<div class="sponsors-large">
 						<p>Brought to you by</p>
-					<!--
 						<div class="sponsor-large"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-large space"><img src="#" width="#" height="#" alt="#" /></div>
-					-->
-					
-						<div class="sponsor-medium"><img src="images/pearson.gif" width="142" height="50" alt="Pearson" /></div>
-					
-					<!--
+						<div class="sponsor-medium"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-medium right"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-medium"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-medium right"><img src="#" width="#" height="#" alt="#" /></div>
@@ -329,8 +306,9 @@
 						<div class="sponsor-small"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-small middle"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-small right"><img src="#" width="#" height="#" alt="#" /></div>
-					-->
 					</div>
+
+					-->
 
 					<!-- end sponsors-large -->
 				</div><!-- end sponsors-circle -->

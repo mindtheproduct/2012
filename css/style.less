@@ -2,7 +2,7 @@
 Site: Mind the Product
 URL: http://www.mindtheproduct.com/
 Author: Jena Birch & Kat Neville, http://thisiscapra.com/
-Updated: 02.03.2012
+Updated: 08.03.2012
 --------------------------------------------------------- */
 
 /* colours */
@@ -276,6 +276,33 @@ top-bar
 }
 
 /* ------------------------------
+start-page
+------------------------------ */
+
+#start-page{
+	.sponsors-small{
+		text-align: left;
+		a.text-indent{
+			text-indent: -9999;
+		}
+		p{
+			font-size: 1.5em;
+			text-transform: uppercase;
+			font-family: "futura-pt", arial, sans-serif;
+			font-style: normal;
+			font-weight: 500;
+			margin:  40px 0 15px 0;
+		}
+		img{
+			margin-bottom: 14px;
+			&.last{
+				margin-left: 25px;
+			}
+		}
+	}
+}
+
+/* ------------------------------
 speakers
 ------------------------------ */
 
@@ -347,6 +374,7 @@ speakers
 }
 
 .first{
+	z-index: 4;
 	&.speaker-right{
 		left: 444px;
 		top: 97px;
@@ -361,6 +389,7 @@ speakers
 }
 
 .second{
+	z-index: 3;
 	&.speaker-right{
 		left: 545px;
 		top: 242px;
@@ -375,6 +404,7 @@ speakers
 }
 
 .third{
+	z-index: 2;
 	&.speaker-right{
 		left: 472px;
 		top: 403px;
@@ -386,6 +416,7 @@ speakers
 }
 
 .fourth{
+	z-index: 1;
 	&.speaker-right{
 		left: 399px;
 		top: 564px;
@@ -612,6 +643,14 @@ ticket
 background circles
 ------------------------------ */
 
+img.conference-image{
+	position: absolute;
+	right: 0;
+	top: 430px;
+	width: 290px;
+	height: 439px;
+}
+
 .lbc-1, .lwc-1, .lwc-2, .rbc-1, .rwc-1, .rwc-2, .rwc-3, .sponsors-circle, 
 .blockquote-circle, .lbc-2, .rwc-4, .rbc-2, .rwc-5, .double-circle-1, .lbc-3,
 .lbc-4, .lwc-3, .rbc-3, .double-circle-2, .lbc-5, .blockquote-circle, .rwc-6{
@@ -677,31 +716,6 @@ background circles
 .rwc-2{
 	z-index: -2;
 	background: url(../images/rwc-2.png) no-repeat 100% 0;
-	.sponsors-small{
-		position: absolute;
-		top: 560px;
-		width: 200px;
-		right: 60px;
-		text-align: left;
-		a.text-indent{
-			text-indent: -9999;
-		}
-		p{
-			font-size: 1.5em;
-			text-transform: uppercase;
-			color: @bright-blue;
-			font-family: "futura-pt", arial, sans-serif;
-			font-style: normal;
-			font-weight: 500;
-			margin-bottom: 34px;
-		}
-		img{
-			margin-bottom: 14px;
-			&.last{
-				margin-left: 5px;
-			}
-		}
-	}
 }
 
 .rwc-3{
@@ -806,7 +820,7 @@ media queries
 	#start-page, #speakers, #schedule, #location, #the-team{
 		width: 100%;
 		min-width: 300px;
-		height: 100%;
+		height: 100% !important;
 		margin: 0 auto;
 		padding-bottom: 25px;
 	}
@@ -1142,6 +1156,16 @@ media queries
 					}
 				}
 		}
+	}
+	
+	.speaker-tbc{
+		h4{
+			display: none;
+		}
+	}
+	
+	img.conference-image{
+		display: none;
 	}
 
 
