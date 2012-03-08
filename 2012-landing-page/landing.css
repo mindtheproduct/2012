@@ -1,0 +1,178 @@
+
+body {
+  background-image: url(http://conference.mindtheproduct.com/bg.gif);
+  background-color: #6ecff6;
+  font-family: museo, georgia, serif;
+  font-style: italic;
+  color: #000000;
+}
+
+#global-container {
+  width: 100%;
+  position: relative;
+  margin: 0px;
+}
+
+.content {
+  width: 723px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.white-bg {
+  width: 198px;
+  height: 198px;
+  background: url(http://conference.mindtheproduct.com/photo-circle.png) no-repeat;
+}
+
+.first {
+  z-index: 4;
+}
+
+.second {
+  z-index: 3;
+  left: 175px;
+}
+
+.third {
+  z-index: 2;
+  left:350px;
+}
+
+.fourth {
+  z-index: 1;
+  left:525px;
+}
+
+.speakers {
+	margin: 40px 0px 20px 0px;
+	display: block;
+	height: 280px;
+}
+
+.speaker {
+  position: absolute;
+  width: 198px;
+  height: 198px;
+  text-align: center;
+}
+
+.speaker img {
+  padding: 24px;
+}
+
+a.logo {
+  float: left;
+  margin: 25px 522px 30px 0px;
+  width: 438px;
+  height: 106px;
+  background: url(http://conference.mindtheproduct.com/logo.png) no-repeat;
+  text-indent: -9999px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+  font-family: "futura-pt", helvetica, arial, sans-serif;
+  font-style: normal;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+h2 {
+  font-size: 3.0em;
+  line-height: 1.1em;
+  font-family: helvetica, arial, sans-serif;
+  font-weight: 600;
+  margin-bottom: 0px;
+  text-shadow: 0px -1px 0px #4d90ab;
+  -moz-text-shadow: 0px -1px 0px #4d90ab;
+  -webkit-text-shadow: 0px -1px 0px #4d90ab;
+  behavior: url(PIE.htc);
+}
+h3 {
+  font-size: 4.0em;
+}
+h4 {
+  font-size: 1.2em;
+  margin:10px 0px 0px 0px;
+}
+
+p.dark {
+  font-size: 1.1em;
+  line-height: 1.1;
+  font-family: "futura-pt", arial, sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+p.intro {
+  font-size: 1em;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+p.company {
+	margin:0px;
+	font-size: 0.8em;
+}
+
+p.copy {
+	font-size: 0.4em;
+}
+
+
+.sponsor {
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	background-color:rgba(255,255,255,0.5);
+	padding: 10px 40px 10px 40px;
+  font-size: 1em;
+  line-height: 1.2;
+  color: #000000;
+}
+
+.footer {
+	background-color: #6ecff6;
+	color:#333;
+	padding: 10px 40px 10px 40px;
+	margin-top: 50px;
+	margin-bottom: 0px;
+	font-size: 0.7em;
+}
+
+.buttons {
+	text-align:center;
+	margin-top:40px;
+}
+
+a.button {
+  font-size: 1.1em;
+  font-family: "futura-pt", arial, sans-serif;
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  color: #444444;
+  font-style: normal;
+  background: #ffffff;
+  border: 10px solid #bae5fb;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px;
+  behavior: url(PIE.htc);
+  -moz-box-shadow: 0px 1px 2px 0px #4d90ab;
+  -webkit-box-shadow: 0px 1px 2px 0px #4d90ab;
+  box-shadow: 0px 1px 2px 0px #4d90ab;
+  behavior: url(PIE.htc);
+}
+
+a.button:hover {
+  text-decoration: underline;
+  -moz-box-shadow: -0px -1px 2px 0px #4d90ab;
+  -webkit-box-shadow: -0px -1px 2px 0px #4d90ab;
+  box-shadow: -0px -1px 2px 0px #4d90ab;
+  behavior: url(PIE.htc);
+}
