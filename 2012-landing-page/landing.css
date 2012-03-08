@@ -45,9 +45,10 @@ body {
 }
 
 .speakers {
-	margin: 40px 0px 20px 0px;
+	margin: 40px 87.5px 40px 87.5px;
 	display: block;
 	height: 280px;
+	position: relative;
 }
 
 .speaker {
@@ -60,6 +61,7 @@ body {
 .speaker img {
   padding: 24px;
 }
+
 
 a.logo {
   float: left;
@@ -100,7 +102,17 @@ h4 {
   font-size: 1.2em;
   margin:10px 0px 0px 0px;
 }
-
+em {
+	font-weight: bold;
+}
+a {
+	color: #444;
+	text-decoration: none;
+}
+a:hover {
+	color: #333;
+	text-decoration: underline;
+}
 p.dark {
   font-size: 1.1em;
   line-height: 1.1;
@@ -114,6 +126,10 @@ p.intro {
   line-height: 1.2;
   color: #ffffff;
 }
+p.intro.speaking {
+	text-align: center;
+	padding: 1em 0 0;
+}
 
 p.company {
 	margin:0px;
@@ -126,13 +142,20 @@ p.copy {
 
 
 .sponsor {
-	-moz-border-radius: 15px;
-	border-radius: 15px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
 	background-color:rgba(255,255,255,0.5);
 	padding: 10px 40px 10px 40px;
-  font-size: 1em;
-  line-height: 1.2;
-  color: #000000;
+	font-size: 1em;
+	line-height: 1.3;
+	color: #000000;
+}
+.sponsor h2 {
+	font-size: 1.5em;
+}
+
+.previous-sponsors {
+	margin: 40px 0;
 }
 
 .footer {
@@ -145,34 +168,70 @@ p.copy {
 }
 
 .buttons {
-	text-align:center;
-	margin-top:40px;
+	text-align: center;
+	margin: 24px 0;
 }
 
 a.button {
-  font-size: 1.1em;
-  font-family: "futura-pt", arial, sans-serif;
-  text-decoration: none;
-  padding: 10px 20px 10px 20px;
-  color: #444444;
-  font-style: normal;
-  background: #ffffff;
-  border: 10px solid #bae5fb;
-  -webkit-border-radius: 20px;
-  -moz-border-radius: 20px;
-  -o-border-radius: 20px;
-  border-radius: 20px;
-  behavior: url(PIE.htc);
-  -moz-box-shadow: 0px 1px 2px 0px #4d90ab;
-  -webkit-box-shadow: 0px 1px 2px 0px #4d90ab;
-  box-shadow: 0px 1px 2px 0px #4d90ab;
-  behavior: url(PIE.htc);
+  font-family: "futura-pt", "Helvetica Neue", arial, sans-serif;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background: #1862B0;
+	background:  -webkit-linear-gradient(top, #1862B0, #1357A8);
+	background:  -moz-linear-gradient(top, #1862B0, #1357A8);
+	background:  linear-gradient(top, #1862B0, #1357A8);
+	border: 1px solid #0F4D9F;
+	border-bottom-color: rgba(0,0,0,0.5);
+	-webkit-box-shadow: inset 0 1px 0px rgba(255,255,255,0.5),
+		inset 0 -1px 0px rgba(255,255,255,0.25),
+		inset -1px 0px 0px rgba(255,255,255,0.25),
+		inset 1px 0px 0px rgba(255,255,255,0.25);
+	moz-box-shadow: inset 0 1px 0px rgba(255,255,255,0.5),
+		inset 0 -1px 0px rgba(255,255,255,0.25),
+		inset -1px 0px 0px rgba(255,255,255,0.25),
+		inset 1px 0px 0px rgba(255,255,255,0.25);
+	box-shadow: inset 0 1px 0px rgba(255,255,255,0.5),
+		inset 0 -1px 0px rgba(255,255,255,0.25),
+		inset -1px 0px 0px rgba(255,255,255,0.25),
+		inset 1px 0px 0px rgba(255,255,255,0.25);
+	color: #FFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 1em;
+	font-weight: bold;
+	padding: 0.75em 2em;
+	text-align: center;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.75);
+	font-style: normal;
 }
 
-a.button:hover {
-  text-decoration: underline;
-  -moz-box-shadow: -0px -1px 2px 0px #4d90ab;
-  -webkit-box-shadow: -0px -1px 2px 0px #4d90ab;
-  box-shadow: -0px -1px 2px 0px #4d90ab;
-  behavior: url(PIE.htc);
+a.button:hover,
+a.button:focus {
+	background: #1862B0;
+	background:  -webkit-linear-gradient(top, #1B72B2, #1B72B2 50%, #13579B 50%, #13579B);
+	background:  -moz-linear-gradient(top, #1B72B2, #1B72B2 50%, #13579B 50%, #13579B);
+	background:  linear-gradient(top, #1B72B2, #1B72B2 50%, #13579B 50%, #13579B);
+	border: 1px solid #0F4D9F;
+	border-bottom-color: rgba(0,0,0,0.5);
+	-webkit-box-shadow: inset 0 1px 0px rgba(255,255,255,0.75),
+		inset 0 -1px 0px rgba(255,255,255,0.5),
+		inset -1px 0px 0px rgba(255,255,255,0.5),
+		inset 1px 0px 0px rgba(255,255,255,0.5);
+	moz-box-shadow: inset 0 1px 0px rgba(255,255,255,0.75),
+		inset 0 -1px 0px rgba(255,255,255,0.5),
+		inset -1px 0px 0px rgba(255,255,255,0.5),
+		inset 1px 0px 0px rgba(255,255,255,0.5);
+	box-shadow: inset 0 1px 0px rgba(255,255,255,0.75),
+		inset 0 -1px 0px rgba(255,255,255,0.5),
+		inset -1px 0px 0px rgba(255,255,255,0.5),
+		inset 1px 0px 0px rgba(255,255,255,0.5);
+	color: #FFF;
+}
+a.button:active {
+	background: #1862B0;
+	background:  -webkit-linear-gradient(bottom, #1862B0, #1357A8);
+	background:  -moz-linear-gradient(bottom, #1862B0, #1357A8);
+	background:  linear-gradient(bottom, #1862B0, #1357A8);
 }
