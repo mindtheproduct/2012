@@ -50,6 +50,11 @@
 						<h2>The business of building great products</h2>
 						<p class="dark">On Friday, September 28th 2012<br /> at the Mermaid Conference Center in London</p>
 						<p class="intro">MindtheProduct 2012 is the first conference of its kind - bringing together product management leaders from around the world to explore the intersection of design, technology and business - the business of building great products.</p>
+						<div class="sponsors-small">
+							<p>Brought to you by</p>
+							<img src="images/thoughtworks.png" width="221" height="35" alt="Thoughtworks" />
+							<img class="last" src="images/the-guardian.png" width="230" height="41" alt="The Guardian" />
+						</div><!-- end sponsors-small -->
 					</div><!-- end indent -->
 				</div><!-- end content -->
 				
@@ -60,13 +65,8 @@
 				<!-- right background circles -->
 				<div class="rwc-1"></div>
 				<div class="rbc-1"></div>
-				<div class="rwc-2">
-					<div class="sponsors-small">
-						<p>Brought to you by</p>
-						<img src="images/the-guardian.png" width="230" height="41" alt="The Guardian" />
-						<img class="last" src="images/thoughtworks.png" width="221" height="35" alt="Thoughtworks" />
-					</div><!-- end sponsors-small -->
-				</div><!-- rwc-2 -->
+				<div class="rwc-2"></div>
+				<img class="conference-image" src="images/conference.png" width="290" height="439" alt="MindtheProduct conference" />
 
 				<!-- ticket image -->
 				<div class="ticket"></div>
@@ -103,83 +103,77 @@
 					
 					<div class="first speaker-right">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/marty_cagan.png" width="152" height="152" alt="Marty Cagan" />
 						</div>
-						<h4>Martin Erikkson</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
-						<a class="twitter" href="#">bfmartin</a>
+						<h4>Marty Cagan</h4>
+						<p class="speciality">Managing Partner, SVPG</p>
+						<p class="info">Former VP of Product at eBay, AOL and Netscape.</p>
+						<a class="twitter" href="http://twitter.com/cagan">cagan</a>
 					</div><!-- end first speaker-right -->
 					
 					<div class="first speaker-left">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/alex_rainert.png" width="152" height="152" alt="Alex Rainert" />
 						</div>
-						<h4>Martin Erikkson</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
-						<a class="twitter" href="#">bfmartin</a>
+						<h4>Alex Rainert</h4>
+						<p class="speciality">Head of Product, Foursquare</p>
+						<p class="info">Co-founder of Dodgeball, obsessed with information, design, and emerging technology.</p>
+						<a class="twitter" href="http://twitter.com/arainert">arainert</a>
 					</div><!-- end first speaker-left -->
 					
 					<div class="second speaker-right">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/tom_loosemore.png" width="152" height="152" alt="Tom Loosemore" />
 						</div>
-						<h4>Martin Erikkson</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
-						<a class="twitter" href="#">bfmartin</a>
+						<h4>Tom Loosemore</h4>
+						<p class="speciality">Deputy Director, GDS</p>
+						<p class="info">Building gov.uk - a user centred single domain website for the UK Government.</p>
+						<a class="twitter" href="http://twitter.com/tomskitomski">tomskitomski</a>
 					</div><!-- end second speaker-right -->
 					
 					<div class="second speaker-left">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/tom_hulme.png" width="152" height="152" alt="Tom Hulme" />
 						</div>
-						<h4>Martin Erikkson</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
-						<a class="twitter" href="#">bfmartin</a>
+						<h4>Tom Hulme</h4>
+						<p class="speciality">Design Director, IDEO<br>Founder, OpenIDEO</p>
+						<p class="info">Serial entrepreneur and investor.</p>
+						<a class="twitter" href="http://twitter.com/thulme">thulme</a>
 					</div><!-- end second speaker-left -->
 					
 					<div class="third speaker-right">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/nic_newman.png" width="152" height="152" alt="Nic Newman" />
 						</div>
-						<h4>Martin Erikkson</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
-						<a class="twitter" href="#">bfmartin</a>
+						<h4>Nic Newman</h4>
+						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
+						<p class="info">Former Head of Product Development and Controller Future Media at the BBC.</p>
+						<a class="twitter" href="http://twitter.com/nicnewman">nicnewman</a>
 					</div><!-- end third speaker-right -->
-					
-					<div class="third speaker-left">
+
+					<div class="third speaker-left speaker-tbc">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Martin Erikkson</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
-						<a class="twitter" href="#">bfmartin</a>
-					</div><!-- end third speaker-left -->
-					
-					<div class="fourth speaker-right">
+						<h4>Coming soon</h4>
+					</div> <!-- end third speaker-left -->
+
+					<div class="fourth speaker-right speaker-tbc">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Martin Erikkson</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
-						<a class="twitter" href="#">bfmartin</a>
-					</div><!-- end fourth speaker-right -->
-					
-					<div class="fourth speaker-left">
+						<h4>Coming soon</h4>
+					</div> <!-- end fourth speaker-right -->
+
+					<div class="fourth speaker-left speaker-tbc">
 						<div class="white-bg">
-							<img src="images/speaker.png" width="152" height="152" alt="Speaker 1" />
+							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Martin Erikkson</h4>
-						<p class="speciality">speciality goes here</p>
-						<p class="info">Aliquam lorem ante, dapibus in, viverra quis, feugiat a.</p>
-						<a class="twitter" href="#">bfmartin</a>
-					</div><!-- end fourth speaker-left -->
+						<h4>Coming soon</h4>
+					</div> <!-- end fourth speaker-left -->
+
+				
+
 					<div class="clear"></div>
 				</div><!-- end content -->
 				
@@ -271,7 +265,7 @@
 						</tr>
 						<tr>
 							<td>17.45</td>
-							<td>Speaker 8</td>
+							<td>Panel - What's next for Product Management?</td>
 						</tr>
 						<tr>
 							<td>18.15</td>
@@ -279,7 +273,7 @@
 						</tr>
 						<tr>
 							<td class="space">19.00</td>
-							<td class="space">After party</td>
+							<td class="space">After party!</td>
 						</tr>
 					</table>
 					
@@ -293,6 +287,9 @@
 				<!-- right background circles -->
 				<div class="rwc-4"></div>
 				<div class="sponsors-circle">
+					
+					<!--
+
 					<div class="sponsors-large">
 						<p>Brought to you by</p>
 						<div class="sponsor-large"><img src="#" width="#" height="#" alt="#" /></div>
@@ -309,7 +306,11 @@
 						<div class="sponsor-small"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-small middle"><img src="#" width="#" height="#" alt="#" /></div>
 						<div class="sponsor-small right"><img src="#" width="#" height="#" alt="#" /></div>
-					</div><!-- end sponsors-large -->
+					</div>
+
+					-->
+
+					<!-- end sponsors-large -->
 				</div><!-- end sponsors-circle -->
 				<div class="rbc-2"></div>
 				<div class="rwc-5"></div>
@@ -418,7 +419,7 @@
 					designers and marketers to socialise with like-minded people.</blockquote>
 				</div><!-- end blockquote-circle -->
 				<div class="rwc-6"></div>
-				<div class="team-image"><img src="images/the-team.png" /></div>
+				<div class="team-image"><img src="images/producttank_eric_ries.png" /></div>
 			</div>
 			<!-- END THE TEAM -->
 			

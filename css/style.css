@@ -2,7 +2,7 @@
 Site: Mind the Product
 URL: http://www.mindtheproduct.com/
 Author: Jena Birch & Kat Neville, http://thisiscapra.com/
-Updated: 02.03.2012
+Updated: 08.03.2012
 --------------------------------------------------------- */
 /* colours */
 /* round corners */
@@ -247,6 +247,29 @@ top-bar
   padding-top: 50px;
 }
 /* ------------------------------
+start-page
+------------------------------ */
+#start-page .sponsors-small {
+  text-align: left;
+}
+#start-page .sponsors-small a.text-indent {
+  text-indent: -9999;
+}
+#start-page .sponsors-small p {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-family: "futura-pt", arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  margin: 40px 0 15px 0;
+}
+#start-page .sponsors-small img {
+  margin-bottom: 14px;
+}
+#start-page .sponsors-small img.last {
+  margin-left: 25px;
+}
+/* ------------------------------
 speakers
 ------------------------------ */
 .speaker-left, .speaker-right {
@@ -289,6 +312,9 @@ speakers
 .speaker-left a:hover, .speaker-right a:hover {
   color: #034c67;
 }
+.speaker-tbc h4 {
+  margin-top: 85px !important;
+}
 .speaker-left {
   text-align: right;
 }
@@ -303,6 +329,9 @@ speakers
   float: left;
   margin-right: 20px;
 }
+.first {
+  z-index: 4;
+}
 .first.speaker-right {
   left: 444px;
   top: 97px;
@@ -313,6 +342,9 @@ speakers
 .first.speaker-left {
   left: 72px;
   top: 113px;
+}
+.second {
+  z-index: 3;
 }
 .second.speaker-right {
   left: 545px;
@@ -325,6 +357,9 @@ speakers
 .second.speaker-left h4 {
   margin-top: 58px;
 }
+.third {
+  z-index: 2;
+}
 .third.speaker-right {
   left: 472px;
   top: 403px;
@@ -332,6 +367,9 @@ speakers
 .third.speaker-left {
   left: 100px;
   top: 419px;
+}
+.fourth {
+  z-index: 1;
 }
 .fourth.speaker-right {
   left: 399px;
@@ -531,6 +569,13 @@ ticket
 /* ------------------------------
 background circles
 ------------------------------ */
+img.conference-image {
+  position: absolute;
+  right: 0;
+  top: 430px;
+  width: 290px;
+  height: 439px;
+}
 .lbc-1,
 .lwc-1,
 .lwc-2,
@@ -601,31 +646,6 @@ background circles
 .rwc-2 {
   z-index: -2;
   background: url(../images/rwc-2.png) no-repeat 100% 0;
-}
-.rwc-2 .sponsors-small {
-  position: absolute;
-  top: 560px;
-  width: 200px;
-  right: 60px;
-  text-align: left;
-}
-.rwc-2 .sponsors-small a.text-indent {
-  text-indent: -9999;
-}
-.rwc-2 .sponsors-small p {
-  font-size: 1.5em;
-  text-transform: uppercase;
-  color: #3fbded;
-  font-family: "futura-pt", arial, sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  margin-bottom: 34px;
-}
-.rwc-2 .sponsors-small img {
-  margin-bottom: 14px;
-}
-.rwc-2 .sponsors-small img.last {
-  margin-left: 5px;
 }
 .rwc-3 {
   z-index: -1;
@@ -721,7 +741,8 @@ media queries
   #location,
   #the-team {
     width: 100%;
-    height: 100%;
+    min-width: 300px;
+    height: 100% !important;
     margin: 0 auto;
     padding-bottom: 25px;
   }
@@ -1048,6 +1069,12 @@ media queries
   }
   .sponsors-circle .sponsors-large .sponsor-small.right {
     float: right;
+  }
+  .speaker-tbc h4 {
+    display: none;
+  }
+  img.conference-image {
+    display: none;
   }
   #schedule {
     height: 1170px;
