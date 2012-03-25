@@ -674,7 +674,6 @@ img.conference-image {
 .sponsors-circle .sponsors-large .sponsor-large {
   width: 310px;
   height: 70px;
-  border: 1px solid #0581b0;
   margin-bottom: 5px;
 }
 .sponsors-circle .sponsors-large .sponsor-large.space {
@@ -685,7 +684,6 @@ img.conference-image {
   height: 50px;
   float: left;
   margin-bottom: 5px;
-  border: 1px solid #0581b0;
 }
 .sponsors-circle .sponsors-large .sponsor-medium.right {
   float: right;
@@ -697,7 +695,6 @@ img.conference-image {
   width: 80px;
   height: 35px;
   float: left;
-  border: 1px solid #0581b0;
   margin-bottom: 2px;
 }
 .sponsors-circle .sponsors-large .sponsor-small.middle {

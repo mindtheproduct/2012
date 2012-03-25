@@ -291,7 +291,7 @@
 
 					<div class="sponsors-large">
 						<p>Brought to you by</p>
-						<div class="sponsor-large"><img src="images/the-guardian.png" width="#" height="#" alt="#" /></div>
+						<div class="sponsor-large"><img src="images/the-guardian-large.png" width="310" height="55" alt="The Guardian" /></div>
 						<div class="sponsor-large space"></div>
 						<div class="sponsor-medium"></div>
 						<div class="sponsor-medium right"></div>
