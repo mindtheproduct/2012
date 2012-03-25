@@ -209,7 +209,8 @@ top-bar
   font-size: 1.2em;
   padding: 5px 0;
 }
-.top-bar a.facebook, .top-bar a.twitter {
+.top-bar a.facebook,
+.top-bar a.twitter {
   display: inline-block;
   height: 18px;
   width: 14px;
@@ -272,23 +273,28 @@ start-page
 /* ------------------------------
 speakers
 ------------------------------ */
-.speaker-left, .speaker-right {
+.speaker-left,
+.speaker-right {
   position: absolute;
   width: 395px;
   height: 198px;
 }
-.speaker-left .white-bg, .speaker-right .white-bg {
+.speaker-left .white-bg,
+.speaker-right .white-bg {
   width: 198px;
   height: 198px;
   background: url(../images/photo-circle.png) no-repeat;
 }
-.speaker-left img, .speaker-right img {
+.speaker-left img,
+.speaker-right img {
   padding: 24px;
 }
-.speaker-left h4, .speaker-right h4 {
+.speaker-left h4,
+.speaker-right h4 {
   margin-top: 40px;
 }
-.speaker-left p.speciality, .speaker-right p.speciality {
+.speaker-left p.speciality,
+.speaker-right p.speciality {
   font-size: 1.3em;
   font-weight: bold;
   font-family: "futura-pt", arial, sans-serif;
@@ -297,19 +303,22 @@ speakers
   color: #213942;
   margin-bottom: 4px;
 }
-.speaker-left p.info, .speaker-right p.info {
+.speaker-left p.info,
+.speaker-right p.info {
   color: #000000;
   font-size: 1.2em;
   font-family: museo, georgia, serif;
   margin-bottom: 5px;
 }
-.speaker-left a.twitter, .speaker-right a.twitter {
+.speaker-left a.twitter,
+.speaker-right a.twitter {
   font-size: 1.5em;
   padding-left: 20px;
   color: #0581b0;
   background: url(../images/blue-twitter-small.png) no-repeat left;
 }
-.speaker-left a:hover, .speaker-right a:hover {
+.speaker-left a:hover,
+.speaker-right a:hover {
   color: #034c67;
 }
 .speaker-tbc h4 {
@@ -433,7 +442,8 @@ location
   height: 269px;
   background: url(../images/speech-bubble.png) no-repeat;
 }
-.map-overlay .speech-bubble h4, .map-overlay .speech-bubble p {
+.map-overlay .speech-bubble h4,
+.map-overlay .speech-bubble p {
   margin-left: 100px;
   margin-top: 50px;
   width: 100px;
@@ -892,19 +902,23 @@ media queries
     padding-top: 32px;
     font-size: 3.0em;
   }
-  .speaker-left, .speaker-right {
+  .speaker-left,
+  .speaker-right {
     float: left;
     position: static;
     width: 100%;
     height: auto;
   }
-  .speaker-left .white-bg, .speaker-right .white-bg {
+  .speaker-left .white-bg,
+  .speaker-right .white-bg {
     display: none;
   }
-  .speaker-left img, .speaker-right img {
+  .speaker-left img,
+  .speaker-right img {
     padding: 24px;
   }
-  .speaker-left h4, .speaker-right h4 {
+  .speaker-left h4,
+  .speaker-right h4 {
     margin-top: 20px;
   }
   .speaker-left {
@@ -959,7 +973,8 @@ media queries
     background: none;
     text-align: left;
   }
-  .map-overlay .speech-bubble h4, .map-overlay .speech-bubble p {
+  .map-overlay .speech-bubble h4,
+  .map-overlay .speech-bubble p {
     margin-left: 0px;
     width: 100%;
     color: #ffffff;
@@ -1035,7 +1050,6 @@ media queries
   .sponsors-circle .sponsors-large .sponsor-large {
     width: 100%;
     height: 70px;
-    border: 1px solid #0581b0;
     margin-bottom: 5px;
   }
   .sponsors-circle .sponsors-large .sponsor-large.space {
@@ -1046,7 +1060,6 @@ media queries
     height: 50px;
     float: left;
     margin-bottom: 5px;
-    border: 1px solid #0581b0;
   }
   .sponsors-circle .sponsors-large .sponsor-medium.right {
     float: right;
@@ -1058,7 +1071,6 @@ media queries
     width: 28%;
     height: 35px;
     float: left;
-    border: 1px solid #0581b0;
     margin-bottom: 2px;
   }
   .sponsors-circle .sponsors-large .sponsor-small.middle {
