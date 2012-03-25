@@ -225,11 +225,11 @@
 						</tr>
 						<tr>
 							<td>10.00</td>
-							<td>Speaker 1</td>
+							<td>Marty Cagan</td>
 						</tr>
 						<tr>
 							<td>10.45</td>
-							<td>Speaker 2</td>
+							<td>TBC</td>
 						</tr>
 						<tr>
 							<td>11.30</td>
@@ -237,11 +237,11 @@
 						</tr>
 						<tr>
 							<td>12.00</td>
-							<td>Speaker 3</td>
+							<td>Tom Loosemore</td>
 						</tr>
 						<tr>
 							<td>12.45</td>
-							<td>Speaker 4</td>
+							<td>TBC</td>
 						</tr>
 						<tr>
 							<td>13.30</td>
@@ -249,11 +249,11 @@
 						</tr>
 						<tr>
 							<td>15.00</td>
-							<td>Speaker 5</td>
+							<td>Tom Hulme</td>
 						</tr>
 						<tr>
 							<td>15.45</td>
-							<td>Speaker 6</td>
+							<td>TBC</td>
 						</tr>
 						<tr>
 							<td>16.30</td>
@@ -261,11 +261,11 @@
 						</tr>
 						<tr>
 							<td>17.00</td>
-							<td>Speaker 7</td>
+							<td>Alex Rainert</td>
 						</tr>
 						<tr>
 							<td>17.45</td>
-							<td>Panel - What's next for Product Management?</td>
+							<td>Panel - What's next for Product?</td>
 						</tr>
 						<tr>
 							<td>18.15</td>
@@ -288,27 +288,26 @@
 				<div class="rwc-4"></div>
 				<div class="sponsors-circle">
 					
-					<!--
 
 					<div class="sponsors-large">
 						<p>Brought to you by</p>
-						<div class="sponsor-large"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-large space"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-medium"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-medium right"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-medium"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-medium right"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-medium space right"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-medium space"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-small"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-small middle"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-small right"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-small"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-small middle"><img src="#" width="#" height="#" alt="#" /></div>
-						<div class="sponsor-small right"><img src="#" width="#" height="#" alt="#" /></div>
+						<div class="sponsor-large"><img src="images/the-guardian.png" width="#" height="#" alt="#" /></div>
+						<div class="sponsor-large space"></div>
+						<div class="sponsor-medium"></div>
+						<div class="sponsor-medium right"></div>
+						<div class="sponsor-medium"></div>
+						<div class="sponsor-medium right"></div>
+						<div class="sponsor-medium space right"></div>
+						<div class="sponsor-medium space"></div>
+						<div class="sponsor-small"></div>
+						<div class="sponsor-small middle"></div>
+						<div class="sponsor-small right"></div>
+						<div class="sponsor-small"></div>
+						<div class="sponsor-small middle"></div>
+						<div class="sponsor-small right"></div>
 					</div>
 
-					-->
+
 
 					<!-- end sponsors-large -->
 				</div><!-- end sponsors-circle -->
