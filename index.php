@@ -252,6 +252,13 @@
 						<li><a href="#the-team" class="scroll">The Team</a></li>
 					</ul><!-- end main-nav -->
 					
+					<div class="become-a-sponsor">
+					 <h3>Interested in sponsoring?</h3>
+
+            <h4>Download our information pack</h4>
+            <a class="download" href="#">Download</a>
+					</div><!-- end become-a-sponsor-->
+					
 					<table>
 						<tr>
 							<td>08.45</td>
@@ -348,12 +355,6 @@
 
 
 					<!-- end sponsors-large -->
-					<div class="become-a-sponsor">
-					 <h3>Interested in sponsoring?</h3>
-
-            <h4>Download our information pack</h4>
-            <a class="download" href="#">Download</a>
-					</div>
 				</div><!-- end sponsors-circle -->
 				<div class="rbc-2"></div>
 				<div class="rwc-5"></div>

@@ -450,7 +450,7 @@ schedule
   padding: 50px;
   position: absolute;
   top: 600px;
-  right: 100px;
+  right: -70px;
   z-index: 100;
 }
 .become-a-sponsor h3 {
@@ -742,7 +742,6 @@ img.conference-image {
 }
 .sponsors-circle {
   background: url(../images/sponsors-circle.png) no-repeat 100% 0;
-  z-index: 1;
 }
 .sponsors-circle .sponsors-large {
   float: right;
@@ -1185,6 +1184,7 @@ media queries
     float: right;
   }
   .become-a-sponsor {
+    display: none;
     background: none;
   }
   .speaker-tbc h4 {
