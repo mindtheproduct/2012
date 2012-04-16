@@ -93,6 +93,9 @@ main elements
   width: 100%;
   position: relative;
 }
+#speakers {
+  height: 1300px;
+}
 .content {
   width: 960px;
   margin: 0 auto;
@@ -344,6 +347,7 @@ speakers
 .first.speaker-right {
   left: 444px;
   top: 97px;
+  width: 425px;
 }
 .first.speaker-right h4 {
   margin-top: 30px;
@@ -360,8 +364,9 @@ speakers
   top: 242px;
 }
 .second.speaker-left {
-  left: 173px;
+  left: 143px;
   top: 258px;
+  width: 425px;
 }
 .second.speaker-left h4 {
   margin-top: 58px;
@@ -372,6 +377,7 @@ speakers
 .third.speaker-right {
   left: 472px;
   top: 403px;
+  width: 445px;
 }
 .third.speaker-left {
   left: 100px;
@@ -387,6 +393,35 @@ speakers
 .fourth.speaker-left {
   left: 27px;
   top: 580px;
+}
+/* ------------------------------
+panelists
+------------------------------ */
+.panelists {
+  position: absolute;
+  top: 850px;
+  left: 0;
+}
+.panelists h3 {
+  float: left;
+  padding: 55px 20px 0 0;
+}
+.panelists .panel-member {
+  float: left;
+  width: 148px;
+}
+.panelists .panel-member .speciality,
+.panelists .panel-member h4 {
+  text-align: center;
+}
+.panelists .panel-member .white-bg {
+  background: url(../images/photo-circle-small.png) no-repeat 0 0;
+  width: 165px;
+  height: 164px;
+  margin-bottom: 10px;
+}
+.panelists .panel-member .white-bg img {
+  padding: 19px;
 }
 /* ------------------------------
 schedule
@@ -407,6 +442,46 @@ schedule
 }
 #schedule table tr td.space {
   padding-top: 100px;
+}
+.become-a-sponsor {
+  background: url(../images/become-sponsor-circle.png) no-repeat 0 0;
+  width: 208px;
+  height: 208px;
+  padding: 50px;
+  position: absolute;
+  top: 600px;
+  right: 100px;
+  z-index: 100;
+}
+.become-a-sponsor h3 {
+  text-align: center;
+  font-size: 2.3em;
+  margin: 5px 0 10px;
+}
+.become-a-sponsor h4 {
+  text-align: center;
+  color: #000000;
+  margin: 0 0 35px;
+}
+.become-a-sponsor a.download {
+  color: #ffffff;
+  background: #3fbded;
+  text-transform: uppercase;
+  font-family: "futura-pt", arial, sans-serif;
+  font-style: normal;
+  font-size: 2.0em;
+  padding: 6px 28px;
+  margin-left: 7px;
+  border: 10px solid #0581b0;
+  -webkit-border-radius: 18px;
+  -moz-border-radius: 18px;
+  -o-border-radius: 18px;
+  border-radius: 18px;
+  behavior: url(PIE.htc);
+}
+.become-a-sponsor a.download:hover {
+  background-color: #00a0dc;
+  border-color: #00688f;
 }
 /* ------------------------------
 location
@@ -474,11 +549,15 @@ location
   right: 22px;
   padding: 6px 28px;
   border: 10px solid #0581b0;
-  -webkit-border-radius: 16px;
-  -moz-border-radius: 16px;
-  -o-border-radius: 16px;
-  border-radius: 16px;
+  -webkit-border-radius: 18px;
+  -moz-border-radius: 18px;
+  -o-border-radius: 18px;
+  border-radius: 18px;
   behavior: url(PIE.htc);
+}
+.map-overlay .speech-bubble a.get-directions:hover {
+  background-color: #00a0dc;
+  border-color: #00688f;
 }
 img#theatre {
   position: absolute;
@@ -663,6 +742,7 @@ img.conference-image {
 }
 .sponsors-circle {
   background: url(../images/sponsors-circle.png) no-repeat 100% 0;
+  z-index: 1;
 }
 .sponsors-circle .sponsors-large {
   float: right;
@@ -903,23 +983,47 @@ media queries
     font-size: 3.0em;
   }
   .speaker-left,
-  .speaker-right {
+  .speaker-right,
+  .panel-member {
     float: left;
     position: static;
     width: 100%;
     height: auto;
   }
   .speaker-left .white-bg,
-  .speaker-right .white-bg {
+  .speaker-right .white-bg,
+  .panel-member .white-bg {
     display: none;
   }
   .speaker-left img,
-  .speaker-right img {
+  .speaker-right img,
+  .panel-member img {
     padding: 24px;
   }
   .speaker-left h4,
-  .speaker-right h4 {
+  .speaker-right h4,
+  .panel-member h4 {
     margin-top: 20px;
+  }
+  .panelists {
+    position: static;
+    top: 0;
+    left: 0;
+    margin-top: 20px;
+    clear: both;
+  }
+  .panelists h3 {
+    margin: 30px 0 20px;
+    font-size: 3em;
+    float: none;
+  }
+  .panelists .panel-member {
+    width: 100%;
+  }
+  .panelists .panel-member h4,
+  .panelists .panel-member p.speciality {
+    margin-top: 0;
+    text-align: left;
   }
   .speaker-left {
     text-align: left;
@@ -1025,6 +1129,7 @@ media queries
     display: none;
   }
   .sponsors-circle {
+    display: none;
     background: none;
     position: static;
     width: 80%;
@@ -1078,6 +1183,9 @@ media queries
   }
   .sponsors-circle .sponsors-large .sponsor-small.right {
     float: right;
+  }
+  .become-a-sponsor {
+    background: none;
   }
   .speaker-tbc h4 {
     display: none;

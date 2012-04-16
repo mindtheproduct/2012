@@ -165,16 +165,54 @@
 						<h4>Announcing soon</h4>
 					</div> <!-- end fourth speaker-right -->
 
-					<div class="fourth speaker-left speaker-tbc">
-						<div class="white-bg">
-							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
+									<!-- panelists -->
+					
+					<div class="panelists">
+					 <h3>Panelists</h3>
+					 <div class="panel-member">
+					   <div class="white-bg">
+							<img src="images/thumby.png" width="127" height="127" alt="Tom Hulme" />
 						</div>
-						<h4>Announcing soon</h4>
-					</div> <!-- end fourth speaker-left -->
-
-				
+						<h4>Nic Newman</h4>
+						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
+					 </div><!-- end panel-member -->
+					 
+					 <div class="panel-member">
+					   <div class="white-bg">
+							<img src="images/thumby.png" width="127" height="127" alt="Tom Hulme" />
+						</div>
+						<h4>Nic Newman</h4>
+						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
+					 </div><!-- end panel-member -->
+					 
+					 <div class="panel-member">
+					   <div class="white-bg">
+							<img src="images/thumby.png" width="127" height="127" alt="Tom Hulme" />
+						</div>
+						<h4>Nic Newman</h4>
+						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
+					 </div><!-- end panel-member -->
+					 
+					 <div class="panel-member">
+					   <div class="white-bg">
+							<img src="images/thumby.png" width="127" height="127" alt="Tom Hulme" />
+						</div>
+						<h4>Nic Newman</h4>
+						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
+					 </div><!-- end panel-member -->
+					 
+					 <div class="panel-member">
+					   <div class="white-bg">
+							<img src="images/thumby.png" width="127" height="127" alt="Tom Hulme" />
+						</div>
+						<h4>Nic Newman</h4>
+						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
+					 </div><!-- end panel-member -->
+					</div><!-- end panelists-->		
 
 					<div class="clear"></div>
+					
+		
 				</div><!-- end content -->
 				
 				<!-- left background circles -->
@@ -310,6 +348,12 @@
 
 
 					<!-- end sponsors-large -->
+					<div class="become-a-sponsor">
+					 <h3>Interested in sponsoring?</h3>
+
+            <h4>Download our information pack</h4>
+            <a class="download" href="#">Download</a>
+					</div>
 				</div><!-- end sponsors-circle -->
 				<div class="rbc-2"></div>
 				<div class="rwc-5"></div>
