@@ -32,7 +32,7 @@
 					<h1><a href="#" class="logo">Mind the Product | Product Management Conference | 2012</a></h1>
 					<div class="buy-tickets">
 						<a class="tab" href="#">Buy Tickets</a>
-						<div class="price">&pound;175 / ticket</div>
+						<div class="price">&pound;199 / ticket</div>
 					</div><!-- end buy-tickets -->
 					<div class="clear"></div>
 				</div><!-- end header -->
@@ -80,8 +80,8 @@
 					<div class="content">
 						<a href="#home"><img class="logo-small" src="images/logo-small.png" width="98" height="30" alt="Mind the Product" /></a>
 						<p class="date">Friday, 28th September 2012
-						<a class="facebook" href="#"></a>
-						<a class="twitter" href="#"></a></p>
+						<a class="facebook" href="http://www.facebook.com/mindtheproduct"></a>
+						<a class="twitter" href="http://www.twitter.com/mindtheproduct"></a></p>
 						
 						<div class="buy-tickets">
 							<a class="tab" href="#">Buy Tickets</a>
@@ -136,7 +136,7 @@
 							<img src="images/john_earner.png" width="152" height="152" alt="Tom Hulme" />
 						</div>
 						<h4>John Earner</h4>
-						<p class="speciality">Entrepreneur in Residence, Accel</p>
+						<p class="speciality">EIR, Accel</p>
 						<p class="info">Former VP of Product at Playfish & GM Playfish Studios at EA.</p>
 						<a class="twitter" href="http://twitter.com/jearner">jearner</a>
 					</div><!-- end second speaker-left -->
@@ -155,21 +155,21 @@
 						<div class="white-bg">
 							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Coming soon</h4>
+						<h4>Announcing soon</h4>
 					</div> <!-- end third speaker-left -->
 
 					<div class="fourth speaker-right speaker-tbc">
 						<div class="white-bg">
 							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Coming soon</h4>
+						<h4>Announcing soon</h4>
 					</div> <!-- end fourth speaker-right -->
 
 					<div class="fourth speaker-left speaker-tbc">
 						<div class="white-bg">
 							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
 						</div>
-						<h4>Coming soon</h4>
+						<h4>Announcing soon</h4>
 					</div> <!-- end fourth speaker-left -->
 
 				
@@ -193,8 +193,8 @@
 					<div class="content">
 						<a href="#home"><img class="logo-small" src="images/logo-small.png" width="98" height="30" alt="Mind the Product" /></a>
 						<p class="date">Friday, 28th September 2012
-						<a class="facebook" href="#"></a>
-						<a class="twitter" href="#"></a></p>
+						<a class="facebook" href="http://www.facebook.com/mindtheproduct"></a>
+						<a class="twitter" href="http://www.twitter.com/mindtheproduct"></a></p>
 						
 						<div class="buy-tickets">
 							<a class="tab" href="#">Buy Tickets</a>
@@ -229,7 +229,7 @@
 						</tr>
 						<tr>
 							<td>10.45</td>
-							<td>TBC</td>
+							<td>TBA</td>
 						</tr>
 						<tr>
 							<td>11.30</td>
@@ -241,7 +241,7 @@
 						</tr>
 						<tr>
 							<td>12.45</td>
-							<td>TBC</td>
+							<td>TBA</td>
 						</tr>
 						<tr>
 							<td>13.30</td>
@@ -253,7 +253,7 @@
 						</tr>
 						<tr>
 							<td>15.45</td>
-							<td>TBC</td>
+							<td>John Earner</td>
 						</tr>
 						<tr>
 							<td>16.30</td>
@@ -261,7 +261,7 @@
 						</tr>
 						<tr>
 							<td>17.00</td>
-							<td>Alex Rainert</td>
+							<td>TBA</td>
 						</tr>
 						<tr>
 							<td>17.45</td>
@@ -295,12 +295,12 @@
 						<div class="sponsor-large space"><img src="images/ebay.png" width="310" height="70" alt="eBay" /></div>
 						<div class="sponsor-medium"></div>
 						<div class="sponsor-medium right"></div>
-						<div class="sponsor-medium"></div>
+						<div class="sponsor-medium"><img src="images/pearson.png" width="142" height="50" alt="Pearson" /></div>
 						<div class="sponsor-medium right"></div>
 						<div class="sponsor-medium space right"></div>
 						<div class="sponsor-medium space"></div>
 						<div class="sponsor-small"></div>
-						<div class="sponsor-small middle"></div>
+						<div class="sponsor-small middle"><img src="images/balsamiq.png" width="80" height="35" alt="Balsamiq" /></div>
 						<div class="sponsor-small right"></div>
 						<div class="sponsor-small"></div>
 						<div class="sponsor-small middle"></div>
@@ -323,8 +323,8 @@
 					<div class="content">
 						<a href="#home"><img class="logo-small" src="images/logo-small.png" width="98" height="30" alt="Mind the Product" /></a>
 						<p class="date">Friday, 28th September 2012
-						<a class="facebook" href="#"></a>
-						<a class="twitter" href="#"></a></p>
+						<a class="facebook" href="http://www.facebook.com/mindtheproduct"></a>
+						<a class="twitter" href="http://www.twitter.com/mindtheproduct"></a></p>
 						
 						<div class="buy-tickets">
 							<a class="tab" href="#">Buy Tickets</a>
@@ -377,8 +377,8 @@
 					<div class="content">
 						<a href="#home"><img class="logo-small" src="images/logo-small.png" width="98" height="30" alt="Mind the Product" /></a>
 						<p class="date">Friday, 28th September 2012
-						<a class="facebook" href="#"></a>
-						<a class="twitter" href="#"></a></p>
+						<a class="facebook" href="http://www.facebook.com/mindtheproduct"></a>
+						<a class="twitter" href="http://www.twitter.com/mindtheproduct"></a></p>
 						
 						<div class="buy-tickets">
 							<a class="tab" href="#">Buy Tickets</a>
