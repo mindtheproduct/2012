@@ -52,8 +52,8 @@
 						<p class="intro">MindtheProduct 2012 is the first conference of its kind - bringing together product management leaders from around the world to explore the intersection of design, technology and business - the business of building great products.</p>
 						<div class="sponsors-small">
 							<p>Brought to you by</p>
-							<img src="images/thoughtworks.png" width="221" height="35" alt="Thoughtworks" />
-							<img class="last" src="images/the-guardian.png" width="230" height="41" alt="The Guardian" />
+							<img src="images/the-guardian.png" width="230" height="41" alt="The Guardian" />
+							<img class="last" src="images/ebay-small.png" width="230" height="52" alt="eBay" />
 						</div><!-- end sponsors-small -->
 					</div><!-- end indent -->
 				</div><!-- end content -->
