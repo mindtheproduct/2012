@@ -303,7 +303,7 @@
 						<div class="sponsor-small middle"><img src="images/balsamiq.png" width="80" height="35" alt="Balsamiq" /></div>
 						<div class="sponsor-small right"></div>
 						<div class="sponsor-small"></div>
-						<div class="sponsor-small middle"></div>
+						<div class="sponsor-small middle"><img src="images/d-labs.png" width="80" height="35" alt="D-Labs" /></div>
 						<div class="sponsor-small right"></div>
 					</div>
 
