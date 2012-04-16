@@ -103,7 +103,7 @@
 					
 					<div class="first speaker-right">
 						<div class="white-bg">
-							<img src="images/marty_cagan.png" width="152" height="152" alt="Marty Cagan" />
+							<img src="images/tom_hulme.png" width="152" height="152" alt="Marty Cagan" />
 						</div>
 						<h4>Tom Hulme</h4>
 						<p class="speciality">Design Director, IDEO<br>Founder, OpenIDEO</p>
@@ -113,7 +113,7 @@
 					
 					<div class="first speaker-left">
 						<div class="white-bg">
-							<img src="images/alex_rainert.png" width="152" height="152" alt="Alex Rainert" />
+							<img src="images/marty_cagan.png" width="152" height="152" alt="Alex Rainert" />
 						</div>
 						<h4>Marty Cagan</h4>
 						<p class="speciality">Managing Partner, SVPG</p>
@@ -133,7 +133,7 @@
 					
 					<div class="second speaker-left">
 						<div class="white-bg">
-							<img src="images/tom_hulme.png" width="152" height="152" alt="Tom Hulme" />
+							<img src="images/john_earner.png" width="152" height="152" alt="Tom Hulme" />
 						</div>
 						<h4>John Earner</h4>
 						<p class="speciality">Entrepreneur in Residence, Accel</p>
