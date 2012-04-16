@@ -136,7 +136,7 @@
 							<img src="images/john_earner.png" width="152" height="152" alt="Tom Hulme" />
 						</div>
 						<h4>John Earner</h4>
-						<p class="speciality">EIR, Accel</p>
+						<p class="speciality">Entrepreneur in Residence, Accel</p>
 						<p class="info">Former VP of Product at Playfish & GM Playfish Studios at EA.</p>
 						<a class="twitter" href="http://twitter.com/jearner">jearner</a>
 					</div><!-- end second speaker-left -->
@@ -354,7 +354,7 @@
 						<div class="speech-bubble">
 							<h4>Mermaid<br /> Conference Center</h4>
 							<p class="address">Puddle Dock,<br /> London,<br /> Blackfriars<br /> EC4V 3DB</p>
-							<a class="get-directions" href="#">Get directions</a>
+							<a class="get-directions" href="http://maps.google.co.uk/maps?q=The+Mermaid+Conference+%26+Events+Centre,+London&hl=en&sll=53.800651,-4.064941&sspn=28.376106,48.779297&oq=The+Mermaid+C&hq=The+Mermaid+Conference+%26+Events+Centre,+London&t=m&z=15">Get directions</a>
 						</div><!-- end speech-bubble -->
 					</div><!-- end map-overlay -->
 					
@@ -424,8 +424,8 @@
 			
 			<div id="footer">
 				<ul>
-					<li><a href="#" class="twitter">Follow us on twitter</a></li>
-					<li><a href="#" class="facebook">Like us on facebook</a></li>
+					<li><a href="http://www.twitter.com/mindtheproduct" class="twitter">Follow us on twitter</a></li>
+					<li><a href="http://www.facebook.com/mindtheproduct" class="facebook">Like us on facebook</a></li>
 				</ul>
 			</div><!-- end footer -->		
 			
