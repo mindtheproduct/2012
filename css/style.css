@@ -400,11 +400,12 @@ panelists
 .panelists {
   position: absolute;
   top: 850px;
-  left: 0;
+  left: 100px;
 }
 .panelists h3 {
   float: left;
   padding: 55px 20px 0 0;
+  font-size: 3.0em;
 }
 .panelists .panel-member {
   float: left;
