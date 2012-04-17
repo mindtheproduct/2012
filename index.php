@@ -141,26 +141,23 @@
 						<a class="twitter" href="http://twitter.com/jearner">jearner</a>
 					</div><!-- end second speaker-left -->
 					
-					<div class="third speaker-right">
+					<div class="third speaker-right speaker-tbc">
 						<div class="white-bg">
-							<img src="images/nic_newman.png" width="152" height="152" alt="Nic Newman" />
+							<img src="images/tbc.png" width="152" height="152" alt="TBA" />
 						</div>
-						<h4>Nic Newman</h4>
-						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
-						<p class="info">Former Head of Product Development and Controller Future Media at the BBC.</p>
-						<a class="twitter" href="http://twitter.com/nicnewman">nicnewman</a>
+						<h4>Announcing soon</h4>
 					</div><!-- end third speaker-right -->
 
 					<div class="third speaker-left speaker-tbc">
 						<div class="white-bg">
-							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
+							<img src="images/tbc.png" width="152" height="152" alt="TBA" />
 						</div>
 						<h4>Announcing soon</h4>
 					</div> <!-- end third speaker-left -->
 
 					<div class="fourth speaker-right speaker-tbc">
 						<div class="white-bg">
-							<img src="images/tbc.png" width="152" height="152" alt="TBC" />
+							<img src="images/tbc.png" width="152" height="152" alt="TBA" />
 						</div>
 						<h4>Announcing soon</h4>
 					</div> <!-- end fourth speaker-right -->
@@ -171,7 +168,7 @@
 					 <h3>Panelists</h3>
 					 <div class="panel-member">
 					   <div class="white-bg">
-							<img src="images/thumby.png" width="127" height="127" alt="Tom Hulme" />
+							<img src="images/nic_newman.png" width="127" height="127" alt="Tom Hulme" />
 						</div>
 						<h4>Nic Newman</h4>
 						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
@@ -179,35 +176,39 @@
 					 
 					 <div class="panel-member">
 					   <div class="white-bg">
-							<img src="images/thumby.png" width="127" height="127" alt="Tom Hulme" />
+							<img src="images/tanya_cordrey.png" width="127" height="127" alt="Tom Hulme" />
 						</div>
-						<h4>Nic Newman</h4>
-						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
+						<h4>Tanya Cordrey</h4>
+						<p class="speciality">Digital Development Director, Guardian</p>
 					 </div><!-- end panel-member -->
 					 
+					 <div class="panel-member">
+					   <div class="white-bg">
+							<img src="images/diana_stepner.png" width="127" height="127" alt="Tom Hulme" />
+						</div>
+						<h4>Diana Stepner</h4>
+						<p class="speciality">Head of Future Technologies, Pearson</p>
+					 </div><!-- end panel-member -->
+					 
+					 <!--
+
 					 <div class="panel-member">
 					   <div class="white-bg">
 							<img src="images/thumby.png" width="127" height="127" alt="Tom Hulme" />
 						</div>
 						<h4>Nic Newman</h4>
 						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
-					 </div><!-- end panel-member -->
+					 </div>--><!-- end panel-member -->
 					 
+					 <!--
+
 					 <div class="panel-member">
 					   <div class="white-bg">
 							<img src="images/thumby.png" width="127" height="127" alt="Tom Hulme" />
 						</div>
 						<h4>Nic Newman</h4>
 						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
-					 </div><!-- end panel-member -->
-					 
-					 <div class="panel-member">
-					   <div class="white-bg">
-							<img src="images/thumby.png" width="127" height="127" alt="Tom Hulme" />
-						</div>
-						<h4>Nic Newman</h4>
-						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
-					 </div><!-- end panel-member -->
+					 </div>--><!-- end panel-member -->
 					</div><!-- end panelists-->		
 
 					<div class="clear"></div>
