@@ -73,9 +73,7 @@
 			</div>
 			<!-- END START-PAGE -->
 			
-			<!-- SPEAKERS -->
-			<div id="speakers">
-				
+
 				<div class="top-bar" id="top-bar">
 					<div class="content">
 						<a href="#home"><img class="logo-small" src="images/logo-small.png" width="98" height="30" alt="Mind the Product" /></a>
@@ -85,13 +83,25 @@
 						
 						<div class="buy-tickets">
 							<a class="tab" href="#">Buy Tickets</a>
-						</div><!-- end buy-tickets -->					
+						</div><!-- end buy-tickets -->
+						
+						<h3>Speakers</h3>
+						<div class="clear"></div>
+					</div><!-- end content -->
+				</div><!-- end top-bar -->
+
+
+			<!-- SPEAKERS -->
+			<div id="speakers">
+				
+				<div class="top-bar">
+					<div class="content">
+	
+						<h3>Speakers</h3>
 						<div class="clear"></div>
 					</div><!-- end content -->
 				</div><!-- end top-bar -->
 				
-				<h3>Speakers</h3>
-
 				<div class="content">
 					<ul class="main-nav">
 						<li><a href="#home" class="scroll">Home</a></li>
