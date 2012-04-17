@@ -76,7 +76,7 @@
 			<!-- SPEAKERS -->
 			<div id="speakers">
 				
-				<div class="top-bar">
+				<div class="top-bar" id="top-bar">
 					<div class="content">
 						<a href="#home"><img class="logo-small" src="images/logo-small.png" width="98" height="30" alt="Mind the Product" /></a>
 						<p class="date">Friday, 28th September 2012
