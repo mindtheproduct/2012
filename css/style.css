@@ -1009,6 +1009,9 @@ media queries
   p.intro {
     width: 100%;
   }
+  .header-bar {
+    display: none;
+  }
   .top-bar {
     width: 100%;
     background: url(../images/top-bar-bg.png) repeat;
