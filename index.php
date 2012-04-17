@@ -85,13 +85,13 @@
 						
 						<div class="buy-tickets">
 							<a class="tab" href="#">Buy Tickets</a>
-						</div><!-- end buy-tickets -->
-						
-						<h3>Speakers</h3>
+						</div><!-- end buy-tickets -->					
 						<div class="clear"></div>
 					</div><!-- end content -->
 				</div><!-- end top-bar -->
 				
+				<h3>Speakers</h3>
+
 				<div class="content">
 					<ul class="main-nav">
 						<li><a href="#home" class="scroll">Home</a></li>
