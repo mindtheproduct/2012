@@ -25,6 +25,9 @@
 	
 		<div id="global-container">
 		
+			<!-- START-PAGE -->
+			<div id="start-page">
+
 				<div class="header-bar" id="header-bar">
 					<div class="content">
 						<a href="#home"><img class="logo-small" src="images/logo-small.png" width="98" height="30" alt="Mind the Product" /></a>
@@ -39,10 +42,6 @@
 						<div class="clear"></div>
 					</div><!-- end content -->
 				</div><!-- end header-bar -->
-
-		
-			<!-- START-PAGE -->
-			<div id="start-page">
 			
 				<div class="header" id="home">
 					<h1><a href="#" class="logo">Mind the Product | Product Management Conference | 2012</a></h1>

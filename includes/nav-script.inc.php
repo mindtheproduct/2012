@@ -153,7 +153,7 @@ Firefox super responsive scroll (c) Keith Clark - MIT Licensed
 
 <script type="text/javascript">
 	$(function() {
-		var bar = $('#top-bar');
+		var bar = $('#header-bar');
 		var top = bar.css('top');
 		$(window).scroll(function() {
 			if($(this).scrollTop() > 100) {
