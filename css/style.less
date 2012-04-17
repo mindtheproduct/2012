@@ -279,6 +279,63 @@ top-bar
   }
 }
 
+
+/* ------------------------------
+header-bar
+------------------------------ */
+
+.header-bar{
+  width: 100%;
+  background: url(../images/top-bar-bg.png) repeat;
+  padding: 4px 0;
+  margin: 0 0 60px 0;
+  border-top: 1px solid #00aeef;
+  top: -100px;
+  z-index: 200;
+  .content{
+    position: relative;
+  }
+  img.logo-small{
+    float: left;
+    margin: -1px 0 0 10px;
+  }
+  p{
+    float: right;
+    margin: 2px 160px 0 0;
+    font-size: 1.2em;
+    padding: 5px 0;
+  }
+  a{
+    &.facebook, &.twitter{
+      display: inline-block;
+      height: 18px;
+      width: 14px;
+      vertical-align: middle;
+    }
+    &.facebook{
+      background: url(../images/facebook-small.png) no-repeat 0 0;
+      margin: 0 1px 0 9px;
+    }
+    &.twitter{
+      background: url(../images/twitter-small.png) no-repeat 0 0;
+    }
+  }
+  .buy-tickets{
+    margin-right: 0;
+    position: absolute;
+    top: -4px;
+    right: 0;
+    width: 147px;
+    a.tab{
+      font-size: 1.8em;
+      padding: 10px 14px 6px 14px;
+      &:hover{
+        padding-top: 13px;
+      }
+    }
+  }
+}
+
 /* ------------------------------
 start-page
 ------------------------------ */
