@@ -25,6 +25,22 @@
 	
 		<div id="global-container">
 		
+				<div class="header-bar" id="header-bar">
+					<div class="content">
+						<a href="#home"><img class="logo-small" src="images/logo-small.png" width="98" height="30" alt="Mind the Product" /></a>
+						<p class="date">Friday, 28th September 2012
+						<a class="facebook" href="http://www.facebook.com/mindtheproduct"></a>
+						<a class="twitter" href="http://www.twitter.com/mindtheproduct"></a></p>
+						
+						<div class="buy-tickets">
+							<a class="tab" href="#">Buy Tickets</a>
+						</div><!-- end buy-tickets -->
+						
+						<div class="clear"></div>
+					</div><!-- end content -->
+				</div><!-- end header-bar -->
+
+		
 			<!-- START-PAGE -->
 			<div id="start-page">
 			
@@ -74,20 +90,7 @@
 			<!-- END START-PAGE -->
 			
 
-				<div class="top-bar" id="top-bar">
-					<div class="content">
-						<a href="#home"><img class="logo-small" src="images/logo-small.png" width="98" height="30" alt="Mind the Product" /></a>
-						<p class="date">Friday, 28th September 2012
-						<a class="facebook" href="http://www.facebook.com/mindtheproduct"></a>
-						<a class="twitter" href="http://www.twitter.com/mindtheproduct"></a></p>
-						
-						<div class="buy-tickets">
-							<a class="tab" href="#">Buy Tickets</a>
-						</div><!-- end buy-tickets -->
-						
-						<div class="clear"></div>
-					</div><!-- end content -->
-				</div><!-- end top-bar -->
+
 
 
 			<!-- SPEAKERS -->
