@@ -256,7 +256,7 @@
 					 <h3>Interested in sponsoring?</h3>
 
             <h4>Download our information pack</h4>
-            <a class="download" href="#">Download</a>
+            <a class="download" href="http://conference.mindtheproduct.com/sponsorpack.pdf" title"MindtheProduct Conference Sponsor Pack">Download</a>
 					</div><!-- end become-a-sponsor-->
 					
 					<table>
@@ -344,11 +344,11 @@
 						<div class="sponsor-medium right"></div>
 						<div class="sponsor-medium space right"></div>
 						<div class="sponsor-medium space"></div>
-						<div class="sponsor-small"></div>
+						<div class="sponsor-small"><img src="images/d-labs.png" width="80" height="35" alt="D-Labs" /></div>
 						<div class="sponsor-small middle"><img src="images/balsamiq.png" width="80" height="35" alt="Balsamiq" /></div>
-						<div class="sponsor-small right"></div>
+						<div class="sponsor-small right"><img src="images/orrick.png" width="80" height="35" alt="Orrick LLP" /></div>
 						<div class="sponsor-small"></div>
-						<div class="sponsor-small middle"><img src="images/d-labs.png" width="80" height="35" alt="D-Labs" /></div>
+						<div class="sponsor-small middle"></div>
 						<div class="sponsor-small right"></div>
 					</div>
 
