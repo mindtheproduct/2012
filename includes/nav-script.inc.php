@@ -157,9 +157,9 @@ Firefox super responsive scroll (c) Keith Clark - MIT Licensed
 		var top = bar.css('top');
 		$(window).scroll(function() {
 			if($(this).scrollTop() > 100) {
-				bar.stop().animate({'top' : '0px'}, 500);
+				bar.stop().animate({'top' : '0px'}, 200);
 			} else {
-				bar.stop().animate({'top' : top}, 500);
+				bar.stop().animate({'top' : top}, 200);
 			}
 		});
 	});
