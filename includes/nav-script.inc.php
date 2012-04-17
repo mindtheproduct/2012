@@ -147,3 +147,21 @@ Firefox super responsive scroll (c) Keith Clark - MIT Licensed
   }
 })(document); 
 </script>
+
+
+<!-- FIXED HEADER jQUERY -->
+
+<SCRIPT>
+$(document).ready(function() {
+ 
+    var div = $('#top-bar');
+    var start = $(div).offset().top;
+ 
+    $.event.add(window, "scroll", function() {
+        var p = $(window).scrollTop();
+        $(div).css('position',((p)>start) ? 'fixed' : 'static');
+        $(div).css('top',((p)>start) ? '0px' : '');
+    });
+ 
+});
+</SCRIPT>
