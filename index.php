@@ -85,7 +85,6 @@
 							<a class="tab" href="#">Buy Tickets</a>
 						</div><!-- end buy-tickets -->
 						
-						<h3>Speakers</h3>
 						<div class="clear"></div>
 					</div><!-- end content -->
 				</div><!-- end top-bar -->
