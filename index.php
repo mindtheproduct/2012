@@ -153,7 +153,7 @@
 					
 					<div class="third speaker-right">
 						<div class="white-bg">
-							<img src="images/tbc.png" width="152" height="152" alt="TBA" />
+							<img src="images/matt_and_hannah.png" width="152" height="152" alt="TBA" />
 						</div>
 						<h4>Matt & Hannah</h4>
 						<p class="speciality">Co-founders, This Is My Jam</p>
