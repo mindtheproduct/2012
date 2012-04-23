@@ -151,11 +151,14 @@
 						<a class="twitter" href="http://twitter.com/jearner">jearner</a>
 					</div><!-- end second speaker-left -->
 					
-					<div class="third speaker-right speaker-tbc">
+					<div class="third speaker-right">
 						<div class="white-bg">
 							<img src="images/tbc.png" width="152" height="152" alt="TBA" />
 						</div>
-						<h4>Announcing soon</h4>
+						<h4>Matt & Hannah</h4>
+						<p class="speciality">Co-founders, This Is My Jam</p>
+						<p class="info">Product and Design co-founders, formerly of Last.fm</p>
+						<a class="twitter" href="http://twitter.com/flaneur">flaneur</a> <a class="twitter" href="http://twitter.com/han">han</a>
 					</div><!-- end third speaker-right -->
 
 					<div class="third speaker-left speaker-tbc">
@@ -429,9 +432,9 @@
 					
 					<div class="indent">
 						<p class="intro">MindTheProduct 2012 is brought to you by a team of four product managers who spend all day building start-ups, and all night building a community  for other product managers.</p>
-						<p>We founded and run <a href="#">ProductTank</a>, a monthly product management meet up in London, which has been running for two years and now has over 850 members in the group and gets 120+ attendees at every meetup.</p>
-						<p>We founded and run <a href="#">ProductCamp London</a> bi-annually - a collaborative, user organized unconference based on the global ProductCamp.org.</p>
-						<p>To bring our events together we founded <a href="#">MindtheProduct.com</a>, a blog focused on product management, which we define as the intersection between design, technology and business. The blog combines our own editorial with community contributed posts.</p>
+						<p><a href="http://twitter.com/bfgmartin">Martin</a> founded <a href="#">ProductTank</a>, a monthly product management meet up in London, which has been running for two years and now has over 900 members in the group and gets 120+ attendees at every meetup.</p>
+						<p><a href="http://twitter.com/simplybastow">Janna</a> and <a href="http://twitter.com/simoncast">Simon</a> co-founded <a href="#">ProductCamp London</a> bi-annually - a collaborative, user organized unconference based on the global ProductCamp.org.</p>
+						<p>Together with <a href="http://twitter.com/smcllns">Sam</a> we got together and founded <a href="#">MindtheProduct.com</a>, a blog focused on product management, which we define as the intersection between design, technology and business. The blog combines our own editorial with community contributed posts.</p>
 						<p class="last">This site was designed by <a href="http://thisiscapra.com/"><img src="images/capra-logo.png" width="186" height="57" alt="Capra" /></a></p>
 						
 					</div><!-- end indent -->
