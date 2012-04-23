@@ -47,8 +47,8 @@
 					<h1><a href="#" class="logo">Mind the Product | Product Management Conference | 2012</a></h1>
 					<div class="buy-tickets">
 						<a class="tab" href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">Buy Tickets</a>
-						<div class="price"><a href="href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">&pound;199 / ticket</a></div>
-						<div class="earlybird"><a href="href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">EARLY BIRD &pound;149</a></div>
+						<div class="price"><a href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">&pound;199 / ticket</a></div>
+						<div class="earlybird"><a href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">EARLY BIRD &pound;149</a></div>
 					</div><!-- end buy-tickets -->
 					<div class="clear"></div>
 				</div><!-- end header -->
