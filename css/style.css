@@ -160,6 +160,17 @@ header
   position: absolute;
   color: #0581b0;
 }
+.buy-tickets .earlybird {
+  top: 98px;
+  left: 10px;
+  font-size: 1.5em;
+  position: absolute;
+  color: #0581b0;
+  background: url("images/early-bird-ribbon.png");
+  width: 170px;
+  padding: 5px 0px;
+  font-style: normal;
+}
 /* ------------------------------
 main-nav
 ------------------------------ */
