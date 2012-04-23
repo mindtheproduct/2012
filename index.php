@@ -158,7 +158,7 @@
 						</div>
 						<h4>Matt & Hannah</h4>
 						<p class="speciality">Co-founders, This Is My Jam</p>
-						<p class="info">Product and Design co-founders, formerly of Last.fm</p>
+						<p class="info">The Product and Design team behind This Is My Jam and Last.fm</p>
 						<a class="twitter" href="http://twitter.com/flaneur">flaneur</a> <a class="twitter" href="http://twitter.com/han">han</a>
 					</div><!-- end third speaker-right -->
 
