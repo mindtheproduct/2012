@@ -66,9 +66,10 @@
 						<p class="dark">On Friday, September 28th 2012<br /> at the Mermaid Conference Center in London</p>
 						<p class="intro">MindtheProduct 2012 is the first conference of its kind - bringing together product management leaders from around the world to explore the intersection of design, technology and business - the business of building great products.</p>
 						<div class="sponsors-small">
-							<p>Brought to you by</p>
+							<p>Sponsored by</p>
 							<img src="images/the-guardian.png" width="230" height="41" alt="The Guardian" />
 							<img class="last" src="images/ebay-small.png" width="230" height="52" alt="eBay" />
+							<p><a href="#schedule">& more</p>
 						</div><!-- end sponsors-small -->
 					</div><!-- end indent -->
 				</div><!-- end content -->
@@ -291,7 +292,7 @@
 						</tr>
 						<tr>
 							<td>12.45</td>
-							<td>TBA</td>
+							<td>Matt & Hannah</td>
 						</tr>
 						<tr>
 							<td>13.30</td>
