@@ -36,7 +36,7 @@
 						<a class="twitter" href="http://www.twitter.com/mindtheproduct"></a></p>
 						
 						<div class="buy-tickets">
-							<a class="tab" href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/">Buy Tickets</a>
+							<a class="tab" href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">Buy Tickets</a>
 						</div><!-- end buy-tickets -->
 						
 						<div class="clear"></div>
@@ -46,7 +46,7 @@
 				<div class="header" id="home">
 					<h1><a href="#" class="logo">Mind the Product | Product Management Conference | 2012</a></h1>
 					<div class="buy-tickets">
-						<a class="tab" href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/">Buy Tickets</a>
+						<a class="tab" href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">Buy Tickets</a>
 						<div class="price">&pound;199 / ticket</div>
 					</div><!-- end buy-tickets -->
 					<div class="clear"></div>
@@ -66,10 +66,9 @@
 						<p class="dark">On Friday, September 28th 2012<br /> at the Mermaid Conference Center in London</p>
 						<p class="intro">MindtheProduct 2012 is the first conference of its kind - bringing together product management leaders from around the world to explore the intersection of design, technology and business - the business of building great products.</p>
 						<div class="sponsors-small">
-							<p>Sponsored by</p>
+							<p>Platinum Sponsors</p>
 							<img src="images/the-guardian.png" width="230" height="41" alt="The Guardian" />
 							<img class="last" src="images/ebay-small.png" width="230" height="52" alt="eBay" />
-							<p><a href="#schedule">& more</p>
 						</div><!-- end sponsors-small -->
 					</div><!-- end indent -->
 				</div><!-- end content -->
@@ -204,15 +203,14 @@
 						<p class="speciality">Head of Future Technologies, Pearson</p>
 					 </div><!-- end panel-member -->
 					 
-					 <!--
 
 					 <div class="panel-member">
 					   <div class="white-bg">
-							<img src="images/thumby.png" width="127" height="127" alt="Tom Hulme" />
+							<img src="images/tbc-panel.png" width="127" height="127" alt="Tom Hulme" />
 						</div>
-						<h4>Nic Newman</h4>
-						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
-					 </div>--><!-- end panel-member -->
+						<h4>TBA</h4>
+						<!--<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>-->
+					 </div><!-- end panel-member -->
 					 
 					 <!--
 
