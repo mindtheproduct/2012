@@ -48,6 +48,7 @@
 					<div class="buy-tickets">
 						<a class="tab" href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">Buy Tickets</a>
 						<div class="price">&pound;199 / ticket</div>
+						<div class="earlybird">EARLY BIRD &pound;149</div>
 					</div><!-- end buy-tickets -->
 					<div class="clear"></div>
 				</div><!-- end header -->
