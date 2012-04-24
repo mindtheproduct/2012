@@ -11,6 +11,7 @@
 		<![endif]-->
 		<meta name="description" content="MindtheProduct 2012 is the first conference of its kind - bringing together product management leaders from around the world to explore the intersection of design, technology and business - the business of building great products."/>
 	  <meta name="keywords" content="product management conference, product manager conference, product design conference, web conference, London, 2012, MindtheProduct, ProductTank, ProductCamp"/>
+	  <link rel="shortcut icon" href="images/square_logo_512x512.png"/>
 	  <!-- stylesheets -->
 		<link rel="stylesheet" type="text/css" href="css/reset.css" />
 		<link rel="stylesheet" type="text/css" href="css/style.css" />
