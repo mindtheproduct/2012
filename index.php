@@ -2,7 +2,7 @@
   <head>
 	  <meta charset="utf-8" />
 	  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-		<title>Mind the Product | Product Management Conference | 2012</title>
+		<title>Mind the Product 2012 | Product Management Conference</title>
     <!--[if IE]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
@@ -10,7 +10,14 @@
 		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
 		<![endif]-->
 		<meta name="description" content="MindtheProduct 2012 is the first conference of its kind - bringing together product management leaders from around the world to explore the intersection of design, technology and business - the business of building great products."/>
-	  <meta name="keywords" content="product management conference, product manager conference, product design conference, web conference, London, 2012, MindtheProduct, ProductTank, ProductCamp"/>
+	  	<meta name="keywords" content="product management conference, product manager conference, product design conference, web conference, London, 2012, MindtheProduct, ProductTank, ProductCamp"/>
+
+	  <meta property="og:title" content="Mind the Product 2012 | Product Management Conference" />
+	  <meta property="og:url" content="http://conference.mindtheproduct.com/" />
+	  <meta property="og:type" content="website" />
+	  <meta property="og:description" content="MindtheProduct 2012 is the first conference of its kind - bringing together product management leaders from around the world to explore the intersection of design, technology and business - the business of building great products." />
+	  <meta property="og:image" content="images/square_logo_512x512.png" />
+
 	  <link rel="shortcut icon" href="images/square_logo_512x512.png"/>
 	  <!-- stylesheets -->
 		<link rel="stylesheet" type="text/css" href="css/reset.css" />
@@ -58,7 +65,7 @@
 				</div><!-- end header-bar -->
 			
 				<div class="header" id="home">
-					<h1><a href="#" class="logo">Mind the Product | Product Management Conference | 2012</a></h1>
+					<h1><a href="#" class="logo">Mind the Product 2012 | Product Management Conference</a></h1>
 					<div class="buy-tickets">
 						<a class="tab" href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">Buy Tickets</a>
 						<div class="price"><a href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">&pound;199 / ticket</a></div>
