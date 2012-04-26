@@ -43,15 +43,6 @@
 	</head>
 	
 	<body>
-
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=266005640100446";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
 	
 		<div id="global-container">
 		
@@ -61,12 +52,10 @@
 				<div class="header-bar" id="header-bar">
 					<div class="content">
 						<a href="#home"><img class="logo-small" src="images/logo-small.png" width="98" height="30" alt="Mind the Product" /></a>
-						<p class="date">Friday, 28th September 2012</p>
-							<div class="like-tweet">
-								<div class="fb-like" data-href="http://conference.mindtheproduct.com" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
-								<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://conference.mindtheproduct.com" data-related="mindtheproduct" data-hashtags="mtpcon">Tweet</a>
-								<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-							</div>			
+						<p class="date">Friday, 28th September 2012
+						<a class="facebook" href="http://www.facebook.com/mindtheproduct"></a>
+						<a class="twitter" href="http://www.twitter.com/mindtheproduct"></a></p>
+						
 						<div class="buy-tickets">
 							<a class="tab" href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">Buy Tickets</a>
 						</div><!-- end buy-tickets -->
