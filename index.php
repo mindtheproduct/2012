@@ -182,7 +182,7 @@
 						</div>
 						<h4>John Earner</h4>
 						<p class="speciality">Entrepreneur in Residence, Accel</p>
-						<p class="info">Former VP of Product at Playfish & GM Playfish Studios at EA.</p>
+						<p class="info">Former VP of Product at Playfish &amp; GM Playfish Studios at EA.</p>
 						<a class="twitter" href="http://twitter.com/jearner">jearner</a>
 					</div><!-- end second speaker-left -->
 					
@@ -190,7 +190,7 @@
 						<div class="white-bg">
 							<img src="images/matt_and_han.png" width="152" height="152" alt="TBA" />
 						</div>
-						<h4>Matthew Ogle<br>& Hannah Donovan</h4>
+						<h4>Matthew Ogle<br>&amp; Hannah Donovan</h4>
 						<p class="speciality">This Is My Jam</p>
 						<p class="info">The product and design team behind This Is My Jam and Last.fm</p>
 						<a class="twitter" href="http://twitter.com/flaneur">flaneur</a> <a class="twitter" href="http://twitter.com/han">han</a>
@@ -325,7 +325,7 @@
 						</tr>
 						<tr>
 							<td>12.45</td>
-							<td>Matt & Hannah</td>
+							<td>Matt &amp; Hannah</td>
 						</tr>
 						<tr>
 							<td>13.30</td>
