@@ -178,7 +178,7 @@
 							<img src="images/matt_and_han.png" width="152" height="152" alt="TBA" />
 						</div>
 						<h4>Matthew Ogle<br>& Hannah Donovan</h4>
-						<p class="speciality">Co-founders, This Is My Jam</p>
+						<p class="speciality">This Is My Jam</p>
 						<p class="info">The product and design team behind This Is My Jam and Last.fm</p>
 						<a class="twitter" href="http://twitter.com/flaneur">flaneur</a> <a class="twitter" href="http://twitter.com/han">han</a>
 					</div><!-- end third speaker-right -->
