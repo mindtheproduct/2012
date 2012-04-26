@@ -223,8 +223,7 @@ top-bar
   font-size: 1.2em;
   padding: 5px 0;
 }
-.top-bar a.facebook,
-.top-bar a.twitter {
+.top-bar a.facebook, .top-bar a.twitter {
   display: inline-block;
   height: 18px;
   width: 14px;
@@ -283,12 +282,11 @@ header-bar
 }
 .header-bar p {
   float: right;
-  margin: 2px 160px 0 0;
+  margin: 0 20px 0 0;
   font-size: 1.2em;
   padding: 5px 0;
 }
-.header-bar a.facebook,
-.header-bar a.twitter {
+.header-bar a.facebook, .header-bar a.twitter {
   display: inline-block;
   height: 18px;
   width: 14px;
@@ -300,6 +298,15 @@ header-bar
 }
 .header-bar a.twitter {
   background: url(../images/twitter-small.png) no-repeat 0 0;
+}
+.header-bar .twitter-share-button, .header-bar .fb-like {
+  display: inline-block;
+  vertical-align: middle;
+  float: right;
+  margin-top: 4px;
+}
+.header-bar .fb-like {
+  margin-right: 160px;
 }
 .header-bar .buy-tickets {
   margin-right: 0;
@@ -341,28 +348,23 @@ start-page
 /* ------------------------------
 speakers
 ------------------------------ */
-.speaker-left,
-.speaker-right {
+.speaker-left, .speaker-right {
   position: absolute;
   width: 395px;
   height: 198px;
 }
-.speaker-left .white-bg,
-.speaker-right .white-bg {
+.speaker-left .white-bg, .speaker-right .white-bg {
   width: 198px;
   height: 198px;
   background: url(../images/photo-circle.png) no-repeat;
 }
-.speaker-left img,
-.speaker-right img {
+.speaker-left img, .speaker-right img {
   padding: 24px;
 }
-.speaker-left h4,
-.speaker-right h4 {
+.speaker-left h4, .speaker-right h4 {
   margin-top: 40px;
 }
-.speaker-left p.speciality,
-.speaker-right p.speciality {
+.speaker-left p.speciality, .speaker-right p.speciality {
   font-size: 1.3em;
   font-weight: bold;
   font-family: "futura-pt", arial, sans-serif;
@@ -370,22 +372,19 @@ speakers
   color: #213942;
   margin-bottom: 4px;
 }
-.speaker-left p.info,
-.speaker-right p.info {
+.speaker-left p.info, .speaker-right p.info {
   color: #000000;
   font-size: 1.2em;
   font-family: museo, georgia, serif;
   margin-bottom: 5px;
 }
-.speaker-left a.twitter,
-.speaker-right a.twitter {
+.speaker-left a.twitter, .speaker-right a.twitter {
   font-size: 1.5em;
   padding-left: 20px;
   color: #0581b0;
   background: url(../images/blue-twitter-small.png) no-repeat left;
 }
-.speaker-left a:hover,
-.speaker-right a:hover {
+.speaker-left a:hover, .speaker-right a:hover {
   color: #034c67;
 }
 .speaker-tbc h4 {
@@ -475,8 +474,7 @@ panelists
   float: left;
   width: 148px;
 }
-.panelists .panel-member .speciality,
-.panelists .panel-member h4 {
+.panelists .panel-member .speciality, .panelists .panel-member h4 {
   text-align: center;
 }
 .panelists .panel-member .white-bg {
@@ -582,8 +580,7 @@ location
   height: 269px;
   background: url(../images/speech-bubble.png) no-repeat;
 }
-.map-overlay .speech-bubble h4,
-.map-overlay .speech-bubble p {
+.map-overlay .speech-bubble h4, .map-overlay .speech-bubble p {
   margin-left: 100px;
   margin-top: 50px;
   width: 100px;
@@ -1049,27 +1046,19 @@ media queries
     padding-top: 32px;
     font-size: 3.0em;
   }
-  .speaker-left,
-  .speaker-right,
-  .panel-member {
+  .speaker-left, .speaker-right, .panel-member {
     float: left;
     position: static;
     width: 100%;
     height: auto;
   }
-  .speaker-left .white-bg,
-  .speaker-right .white-bg,
-  .panel-member .white-bg {
+  .speaker-left .white-bg, .speaker-right .white-bg, .panel-member .white-bg {
     display: none;
   }
-  .speaker-left img,
-  .speaker-right img,
-  .panel-member img {
+  .speaker-left img, .speaker-right img, .panel-member img {
     padding: 24px;
   }
-  .speaker-left h4,
-  .speaker-right h4,
-  .panel-member h4 {
+  .speaker-left h4, .speaker-right h4, .panel-member h4 {
     margin-top: 20px;
   }
   .panelists {
@@ -1087,8 +1076,7 @@ media queries
   .panelists .panel-member {
     width: 100%;
   }
-  .panelists .panel-member h4,
-  .panelists .panel-member p.speciality {
+  .panelists .panel-member h4, .panelists .panel-member p.speciality {
     margin-top: 0;
     text-align: left;
   }
@@ -1144,8 +1132,7 @@ media queries
     background: none;
     text-align: left;
   }
-  .map-overlay .speech-bubble h4,
-  .map-overlay .speech-bubble p {
+  .map-overlay .speech-bubble h4, .map-overlay .speech-bubble p {
     margin-left: 0px;
     width: 100%;
     color: #ffffff;
