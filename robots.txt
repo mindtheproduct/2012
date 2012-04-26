@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /2012/
+
+Sitemap: http://conference.mindtheproduct.com/sitemap.xml.gz
