@@ -237,6 +237,11 @@ top-bar
 .top-bar a.twitter {
   background: url(../images/twitter-small.png) no-repeat 0 0;
 }
+.top-bar .tweet-like {
+  float: right
+    margin: 2px 160px 0 0;
+  padding: 5px 0;
+}
 .top-bar .buy-tickets {
   margin-right: 0;
   position: absolute;
