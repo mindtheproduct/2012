@@ -82,8 +82,7 @@
 					<div class="buy-tickets">
 						<a class="tab" href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">Buy Tickets</a>
 						<div class="price"><a href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">&pound;199 / ticket</a></div>
-						<div class="earlybird"><a href="http://mindtheproduct.ticketleap.com/mind-the-product-2012/" target="_blank">EARLY BIRD &pound;149</a></div>
-					</div><!-- end buy-tickets -->
+							</div><!-- end buy-tickets -->
 					<div class="clear"></div>
 				</div><!-- end header -->
 				
@@ -380,7 +379,7 @@
 						<div class="sponsor-medium"></div>
 						<div class="sponsor-medium right"></div>
 						<div class="sponsor-medium"><img src="images/pearson.png" width="142" height="50" alt="Pearson" /></div>
-						<div class="sponsor-medium right"></div>
+						<div class="sponsor-medium right"><img src="images/ticketmaster.png" width="142" height="50" alt="ticketmaster" /></div>
 						<div class="sponsor-medium space right"></div>
 						<div class="sponsor-medium space"></div>
 						<div class="sponsor-small"><img src="images/d-labs.png" width="80" height="35" alt="D-Labs" /></div>
