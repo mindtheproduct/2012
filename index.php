@@ -69,7 +69,7 @@
 						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 					
 						<!-- Place this tag where you want the +1 button to render -->
-						<div style="float:right;">
+						<div style="float:right;padding:4px 0px 0px 0px;">
 							<g:plusone size="medium"></g:plusone>
 						</div
 
