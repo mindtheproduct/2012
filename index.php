@@ -54,6 +54,19 @@
 						<a href="#home"><img class="logo-small" src="images/logo-small.png" width="98" height="30" alt="Mind the Product" /></a>
 
 						<div id="fb-root"></div>
+
+						<!-- Place this tag where you want the +1 button to render -->
+						<g:plusone size="medium" annotation="inline" width="120"></g:plusone>
+
+						<!-- Place this render call where appropriate -->
+						<script type="text/javascript">
+						  (function() {
+						    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						    po.src = 'https://apis.google.com/js/plusone.js';
+						    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+						  })();
+						</script>
+						
 						<script>(function(d, s, id) {
 						  var js, fjs = d.getElementsByTagName(s)[0];
 						  if (d.getElementById(id)) return;
