@@ -69,7 +69,9 @@
 						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 					
 						<!-- Place this tag where you want the +1 button to render -->
-						<g:plusone size="medium"></g:plusone>
+						<div style="float:right;">
+							<g:plusone size="medium"></g:plusone>
+						</div
 
 						<!-- Place this render call where appropriate -->
 						<script type="text/javascript">
@@ -79,7 +81,7 @@
 						    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 						  })();
 						</script>
-					
+
 						<p class="date">Friday, 28th September 2012</p>
 						
 						<div class="buy-tickets">
