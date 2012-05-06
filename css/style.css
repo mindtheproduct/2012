@@ -1064,7 +1064,7 @@ media queries
   .panel-member {
     float: left;
     position: static;
-    width: 100%;
+    width: 370px;
     height: auto;
   }
   .speaker-left .white-bg,
