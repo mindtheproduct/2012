@@ -401,7 +401,7 @@
 						<div class="sponsor-small middle"><img src="images/balsamiq.png" width="80" height="35" alt="Balsamiq" /></div>
 						<div class="sponsor-small right"><img src="images/orrick.png" width="80" height="35" alt="Orrick LLP" /></div>
 						<div class="sponsor-small"></div>
-						<div class="sponsor-small middle"></div>
+						<div class="sponsor-small middle"><a href="http://www.prodpad.com/" title"ProdPad Product Management Tool"><img src="images/prodpad.png" width="80" height="35" alt="ProdPad" /></a></div>
 						<div class="sponsor-small right"></div>
 					</div>
 
