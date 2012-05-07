@@ -210,11 +210,14 @@
 						<a class="twitter" href="http://twitter.com/flaneur">flaneur</a> <a class="twitter" href="http://twitter.com/han">han</a>
 					</div><!-- end third speaker-right -->
 
-					<div class="third speaker-left speaker-tbc">
+					<div class="third speaker-left">
 						<div class="white-bg">
-							<img src="images/tbc.png" width="152" height="152" alt="TBA" />
+							<img src="images/tom_chi.png" width="152" height="152" alt="Tom Chi" />
 						</div>
-						<h4>Announcing soon</h4>
+						<h4>Tom Chi</h4>
+						<p class="speciality">Experience Lead, Google X</p>
+						<p class="info">Leading an experience team at Google's skunkworks on projects from Google Glass to self-driving cars.</p>
+						<a class="twitter" href="http://twitter.com/thegoodtomchi">thegoodtomchi</a>
 					</div> <!-- end third speaker-left -->
 
 					<div class="fourth speaker-right speaker-tbc">
