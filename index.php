@@ -230,7 +230,7 @@
 						<a class="twitter" href="http://twitter.com/cadler">cadler</a>
 					</div> <!-- end fourth speaker-right -->
 
-					<div class="fifth speaker">
+					<div class="fourth speaker-left">
 						<div class="white-bg">
 							<img src="images/tom_coates.png" width="152" height="152" alt="Tom Coates" />
 						</div>
