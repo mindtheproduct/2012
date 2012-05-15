@@ -216,7 +216,7 @@
 						</div>
 						<h4>Tom Chi</h4>
 						<p class="speciality">Experience Lead, Google X</p>
-						<p class="info">Leading an experience team at Google's skunkworks on projects from Google Glass to self-driving cars.</p>
+						<p class="info">Leading an experience team on projects from Google Glass to self-driving cars.</p>
 						<a class="twitter" href="http://twitter.com/thegoodtomchi">thegoodtomchi</a>
 					</div> <!-- end third speaker-left -->
 
@@ -226,7 +226,7 @@
 						</div>
 						<h4>Charles Adler</h4>
 						<p class="speciality">Co-founder &amp; Creative Director, Kickstarter</p>
-						<p class="info">Designer and entrepreneure, leading the user experience and creative teams at hit startup Kickstarter.</p>
+						<p class="info">Designer and entrepreneur, leading the user experience and creative teams at Kickstarter.</p>
 						<a class="twitter" href="http://twitter.com/cadler">cadler</a>
 					</div> <!-- end fourth speaker-right -->
 
@@ -236,7 +236,7 @@
 						</div>
 						<h4>Tom Coates</h4>
 						<p class="speciality">Founder, Product Club</p>
-						<p class="info">Product Club: a new product development and invention company. Previously: Brickhouse, Fire Eagle, BBC.</p>
+						<p class="info">Previously: Brickhouse, Fire Eagle, BBC.</p>
 						<a class="twitter" href="http://twitter.com/tomcoates">tomcoates</a>
 					</div> <!-- end fourth speaker-right -->
 
