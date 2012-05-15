@@ -236,7 +236,7 @@
 						</div>
 						<h4>Tom Coates</h4>
 						<p class="speciality">Founder, Product Club</p>
-						<p class="info">Previously: Brickhouse, Fire Eagle, BBC.</p>
+						<p class="info">Former Head of Product at Yahoo Brickhouse, Fire Eagle, and BBC.</p>
 						<a class="twitter" href="http://twitter.com/tomcoates">tomcoates</a>
 					</div> <!-- end fourth speaker-right -->
 
