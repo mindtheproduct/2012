@@ -330,20 +330,20 @@
 					
 					<table>
 						<tr>
-							<td>08.45</td>
+							<td>09.00</td>
 							<td>Registration</td>
 						</tr>
 						<tr>
-							<td>09.45</td>
+							<td>10.00</td>
 							<td>Intro</td>
 						</tr>
 						<tr>
-							<td>10.00</td>
+							<td>10.15</td>
 							<td>Marty Cagan</td>
 						</tr>
 						<tr>
-							<td>10.45</td>
-							<td>TBA</td>
+							<td>11.00</td>
+							<td>Matt &amp; Hannah</td>
 						</tr>
 						<tr>
 							<td>11.30</td>
@@ -354,36 +354,36 @@
 							<td>Tom Loosemore</td>
 						</tr>
 						<tr>
-							<td>12.45</td>
-							<td>Matt &amp; Hannah</td>
-						</tr>
-						<tr>
-							<td>13.30</td>
-							<td>Lunch (provided)</td>
-						</tr>
-						<tr>
-							<td>15.00</td>
-							<td>Tom Hulme</td>
-						</tr>
-						<tr>
-							<td>15.45</td>
+							<td>12.30</td>
 							<td>John Earner</td>
 						</tr>
 						<tr>
-							<td>16.30</td>
+							<td>13.00</td>
+							<td>Lunch (provided)</td>
+						</tr>
+						<tr>
+							<td>14.30</td>
+							<td>Tom Hulme</td>
+						</tr>
+						<tr>
+							<td>15.00</td>
+							<td>Charles Adler</td>
+						</tr>
+						<tr>
+							<td>16.00</td>
 							<td>Break</td>
 						</tr>
 						<tr>
-							<td>17.00</td>
-							<td>TBA</td>
+							<td>16.30</td>
+							<td>Tom Coates</td>
 						</tr>
 						<tr>
-							<td>17.45</td>
+							<td>17.00</td>
 							<td>Panel - What's next for Product?</td>
 						</tr>
 						<tr>
-							<td>18.15</td>
-							<td>Finish</td>
+							<td>17.45</td>
+							<td>Closing remarks</td>
 						</tr>
 						<tr>
 							<td class="space">19.00</td>
