@@ -473,21 +473,21 @@
 						<h3>Where to stay</h3>
 					 	<div class="hotel white">
 					 		<h4><a href="http://www.grangehotels.com/Hotels-London/Grange-St-Pauls-Hotel/Grange-St-Pauls-Hotel.aspx">Grange St Pauls</a></h4>
-					 		<p>*****<br>
+					 		<p>★★★★★<br>
 					 			10 Godliman Street<br>
 					 			from £250/night</p>
 					 	</div>
 
 					 	<div class="hotel cyan">
 					 		<h4><a href="http://www.ichotelsgroup.com/crowneplaza/hotels/gb/en/london/loncy/hoteldetail?cm_mmc=mdpr-_-googlemapsUK-_-cp-_-loncy">Crowne Plaza City</a></h4>
-					 		<p>****<br>
+					 		<p>★★★★<br>
 					 			19 New Bridge Street<br>
 					 			from £130/night</p>
 					 	</div>
 
 					 	<div class="hotel blue">
 					 		<h4><a href="http://www.accorhotels.com/gb/hotel-2814-mercure-london-bridge-hotel/index.shtml">Mercure Bankside</a></h4>
-					 		<p>****<br>
+					 		<p>★★★★<br>
 					 			71 Southwark Street<br>
 					 			from £105/night</p>
 					 	</div>
