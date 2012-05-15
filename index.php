@@ -331,7 +331,7 @@
 					<table>
 						<tr>
 							<td>09.00</td>
-							<td>Registration</td>
+							<td><i>Registration</i></td>
 						</tr>
 						<tr>
 							<td>10.00</td>
@@ -347,7 +347,7 @@
 						</tr>
 						<tr>
 							<td>11.30</td>
-							<td>Break</td>
+							<td><i>Break</i></td>
 						</tr>
 						<tr>
 							<td>12.00</td>
@@ -359,7 +359,7 @@
 						</tr>
 						<tr>
 							<td>13.00</td>
-							<td>Lunch (provided)</td>
+							<td><i>Lunch (provided)</i></td>
 						</tr>
 						<tr>
 							<td>14.30</td>
@@ -371,7 +371,7 @@
 						</tr>
 						<tr>
 							<td>16.00</td>
-							<td>Break</td>
+							<td><i>Break</i></td>
 						</tr>
 						<tr>
 							<td>16.30</td>
