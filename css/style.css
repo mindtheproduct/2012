@@ -659,17 +659,17 @@ where to stay
 }
 .hotels .hotel.white {
   background-image: url(../images/h-white.png);
-  background-position: 0 20px;
+  background-position: 0px 12px;
   background-repeat: no-repeat;
 }
 .hotels .hotel.cyan {
   background-image: url(../images/h-cyan.png);
-  background-position: 0 20px;
+  background-position: 0px 12px;
   background-repeat: no-repeat;
 }
 .hotels .hotel.blue {
   background-image: url(../images/h-blue.png);
-  background-position: 0 20px;
+  background-position: 0px 12px;
   background-repeat: no-repeat;
 }
 /* ------------------------------
