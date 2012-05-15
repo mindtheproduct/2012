@@ -468,7 +468,6 @@
 						</div><!-- end map-overlay -->
 					
 						<img src="images/theatre.png" id="theatre" />
-					</div>
 
 					<div class="hotels">
 						<h3>Where to stay</h3>
@@ -492,7 +491,7 @@
 					 			71 Southwark Street<br>
 					 			from £105/night</p>
 					 	</div>
-
+					</div>
 
 					</div>
 
