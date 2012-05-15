@@ -351,7 +351,7 @@
 						</tr>
 						<tr>
 							<td>12.00</td>
-							<td>Tom Loosemore</td>
+							<td>Tom Hulme</td>
 						</tr>
 						<tr>
 							<td>12.30</td>
@@ -363,11 +363,15 @@
 						</tr>
 						<tr>
 							<td>14.30</td>
-							<td>Tom Hulme</td>
+							<td>Tom Chi</td>
 						</tr>
 						<tr>
 							<td>15.00</td>
 							<td>Charles Adler</td>
+						</tr>
+						<tr>
+							<td>15.30</td>
+							<td>Tom Loosemore</td>
 						</tr>
 						<tr>
 							<td>16.00</td>
