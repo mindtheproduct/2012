@@ -220,11 +220,24 @@
 						<a class="twitter" href="http://twitter.com/thegoodtomchi">thegoodtomchi</a>
 					</div> <!-- end third speaker-left -->
 
-					<div class="fourth speaker-right speaker-tbc">
+					<div class="fourth speaker-right">
 						<div class="white-bg">
-							<img src="images/tbc.png" width="152" height="152" alt="TBA" />
+							<img src="images/charles_adler.png" width="152" height="152" alt="Charles Adler" />
 						</div>
-						<h4>Announcing soon</h4>
+						<h4>Charles Adler</h4>
+						<p class="speciality">Co-founder &amp; Creative Director, Kickstarter</p>
+						<p class="info">Designer and entrepreneure, leading the user experience and creative teams at hit startup Kickstarter.</p>
+						<a class="twitter" href="http://twitter.com/cadler">cadler</a>
+					</div> <!-- end fourth speaker-right -->
+
+					<div class="fifth speaker">
+						<div class="white-bg">
+							<img src="images/tom_coates.png" width="152" height="152" alt="Tom Coates" />
+						</div>
+						<h4>Tom Coates</h4>
+						<p class="speciality">Founder, Product Club</p>
+						<p class="info">Product Club: a new product development and invention company. Previously: Brickhouse, Fire Eagle, BBC.</p>
+						<a class="twitter" href="http://twitter.com/tomcoates">tomcoates</a>
 					</div> <!-- end fourth speaker-right -->
 
 									<!-- panelists -->
