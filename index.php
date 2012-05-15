@@ -460,15 +460,43 @@
 					
 					<div class="map-overlay">
 						<div class="pointer"></div>
-						<div class="speech-bubble">
-							<h4>Mermaid<br /> Conference Center</h4>
-							<p class="address">Puddle Dock,<br /> London,<br /> Blackfriars<br /> EC4V 3DB</p>
-							<a class="get-directions" href="http://maps.google.co.uk/maps?q=The+Mermaid+Conference+%26+Events+Centre,+London&hl=en&sll=53.800651,-4.064941&sspn=28.376106,48.779297&oq=The+Mermaid+C&hq=The+Mermaid+Conference+%26+Events+Centre,+London&t=m&z=15">Get directions</a>
-						</div><!-- end speech-bubble -->
-					</div><!-- end map-overlay -->
+							<div class="speech-bubble">
+								<h4>Mermaid<br /> Conference Center</h4>
+								<p class="address">Puddle Dock,<br /> London,<br /> Blackfriars<br /> EC4V 3DB</p>
+								<a class="get-directions" href="http://maps.google.co.uk/maps?q=The+Mermaid+Conference+%26+Events+Centre,+London&hl=en&sll=53.800651,-4.064941&sspn=28.376106,48.779297&oq=The+Mermaid+C&hq=The+Mermaid+Conference+%26+Events+Centre,+London&t=m&z=15">Get directions</a>
+							</div><!-- end speech-bubble -->
+						</div><!-- end map-overlay -->
 					
-					<img src="images/theatre.png" id="theatre" />
-				</div><!-- end content -->
+						<img src="images/theatre.png" id="theatre" />
+					</div>
+
+					<div class="hotels">
+						<h3>Where to stay</h3>
+					 	<div class="hotel">
+					 		<h4><a href="http://www.grangehotels.com/Hotels-London/Grange-St-Pauls-Hotel/Grange-St-Pauls-Hotel.aspx">Grange St Pauls</a></h4>
+					 		<p>*****<br>
+					 			10 Godliman Street<br>
+					 			from £250/night</p>
+					 	</div>
+
+					 	<div class="hotel">
+					 		<h4><a href="http://www.ichotelsgroup.com/crowneplaza/hotels/gb/en/london/loncy/hoteldetail?cm_mmc=mdpr-_-googlemapsUK-_-cp-_-loncy">Crowne Plaza City</a></h4>
+					 		<p>****<br>
+					 			19 New Bridge Street<br>
+					 			from £130/night</p>
+					 	</div>
+
+					 	<div class="hotel">
+					 		<h4><a href="http://www.accorhotels.com/gb/hotel-2814-mercure-london-bridge-hotel/index.shtml">Mercure Bankside</a></h4>
+					 		<p>****<br>
+					 			71 Southwark Street<br>
+					 			from £105/night</p>
+					 	</div>
+
+
+					</div>
+
+					<!-- end content -->
 				
 				<!-- left background circles -->
 				<div class="lbc-4"></div>
