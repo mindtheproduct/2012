@@ -974,7 +974,9 @@ media queries
   .rwc-6,
   .ticket,
   img#theatre,
-  .map {
+  .map,
+  .hotels,
+  .hotel {
     display: none;
   }
   .header {
@@ -1226,25 +1228,6 @@ media queries
     -o-border-radius: 14px;
     border-radius: 14px;
     behavior: url(PIE.htc);
-  }
-  .hotels {
-    position: static;
-    top: 0;
-    left: 0;
-    margin-top: 20px;
-    clear: both;
-  }
-  .hotels h3 {
-    font-size: 3em;
-    float: none;
-  }
-  .hotels .hotel {
-    width: 100%;
-  }
-  .hotels .hotel h4,
-  .hotels .hotel p.speciality {
-    margin-top: 0;
-    text-align: left;
   }
   #the-team .content .indent p {
     margin-bottom: 25px;
