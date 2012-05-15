@@ -699,17 +699,30 @@ where to stay
 ------------------------------ */
 
 .hotels{
-  position: absolute;
-  top: 850px;
-  left: 100px;
+  padding: 20px 0px 0px 80px;
   h3{
-    float: left;
-    padding: 55px 20px 0 0;
     font-size: 3.0em;
   }
   .hotel{
     float: left;
-    width: 200px;
+    width: 240px;
+    padding: 10px 0px 0px 30px;
+    &.white{
+      background-image: url(../images/h-white.png);
+      background-position: 0 20px;
+      background-repeat: no-repeat;
+    }
+    &.cyan{
+      background-image: url(../images/h-cyan.png);
+      background-position: 0 20px;
+      background-repeat: no-repeat;
+    }
+    &.blue{
+      background-image: url(../images/h-blue.png);
+      background-position: 0 20px;
+      background-repeat: no-repeat;
+    }
+
   }
 }
 
