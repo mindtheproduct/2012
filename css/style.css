@@ -644,6 +644,23 @@ img#theatre {
   z-index: -1;
 }
 /* ------------------------------
+where to stay
+------------------------------ */
+.hotels {
+  position: absolute;
+  top: 850px;
+  left: 100px;
+}
+.hotels h3 {
+  float: left;
+  padding: 55px 20px 0 0;
+  font-size: 3.0em;
+}
+.hotels .hotel {
+  float: left;
+  width: 200px;
+}
+/* ------------------------------
 the team
 ------------------------------ */
 #the-team .content .indent p {
@@ -1197,6 +1214,25 @@ media queries
     -o-border-radius: 14px;
     border-radius: 14px;
     behavior: url(PIE.htc);
+  }
+  .hotels {
+    position: static;
+    top: 0;
+    left: 0;
+    margin-top: 20px;
+    clear: both;
+  }
+  .hotels h3 {
+    font-size: 3em;
+    float: none;
+  }
+  .hotels .hotel {
+    width: 100%;
+  }
+  .hotels .hotel h4,
+  .hotels .hotel p.speciality {
+    margin-top: 0;
+    text-align: left;
   }
   #the-team .content .indent p {
     margin-bottom: 25px;

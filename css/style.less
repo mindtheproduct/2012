@@ -695,6 +695,25 @@ img#theatre{
 }
 
 /* ------------------------------
+where to stay
+------------------------------ */
+
+.hotels{
+  position: absolute;
+  top: 850px;
+  left: 100px;
+  h3{
+    float: left;
+    padding: 55px 20px 0 0;
+    font-size: 3.0em;
+  }
+  .hotel{
+    float: left;
+    width: 200px;
+  }
+}
+
+/* ------------------------------
 the team
 ------------------------------ */
 
@@ -1265,6 +1284,27 @@ media queries
     }
   }     
   
+  .hotels{
+    position: static;
+    top: 0;
+    left: 0;
+    margin-top: 20px;
+    clear: both;
+    h3{
+      font-size: 3em;
+      float: none;
+    }
+    .hotel{
+      width: 100%;
+      h4, p.speciality{
+        margin-top: 0;
+        text-align: left;
+      }
+    
+    }
+  }
+
+
   #the-team{
     .content{
       .indent{
