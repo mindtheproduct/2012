@@ -416,7 +416,7 @@
 						<div class="sponsor-medium"><img src="images/pearson.png" width="142" height="50" alt="Pearson" /></div>
 						<div class="sponsor-medium right"><img src="images/ticketmaster.png" width="142" height="50" alt="ticketmaster" /></div>
 						<div class="sponsor-medium space right"></div>
-						<div class="sponsor-medium space"></div>
+						<div class="sponsor-medium space"><img src="images/unison.png" width="142" height="50" alt="Unison" /></div>
 						<div class="sponsor-small"><img src="images/d-labs.png" width="80" height="35" alt="D-Labs" /></div>
 						<div class="sponsor-small middle"><img src="images/balsamiq.png" width="80" height="35" alt="Balsamiq" /></div>
 						<div class="sponsor-small right"><img src="images/orrick.png" width="80" height="35" alt="Orrick LLP" /></div>
