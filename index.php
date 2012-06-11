@@ -530,6 +530,7 @@
 						<p><a href="http://twitter.com/bfgmartin">Martin</a> founded <a href="http://www.producttank.com">ProductTank</a>, a monthly product management meet up in London, which has been running for two years and now has over 900 members in the group and gets 120+ attendees at every meetup.</p>
 						<p><a href="http://twitter.com/simplybastow">Janna</a> and <a href="http://twitter.com/simoncast">Simon</a> co-founded <a href="http://www.productcamplondon.com">ProductCamp London</a> bi-annually - a collaborative, user organized unconference based on the global ProductCamp.org.</p>
 						<p>Together with <a href="http://twitter.com/smcllns">Sam</a> we got together and founded <a href="http://www.mindtheproduct.com">MindtheProduct.com</a>, a blog focused on product management, which we define as the intersection between design, technology and business. The blog combines our own editorial with community contributed posts.</p>
+						<p>We are a not for profit company, funded by our generous sponsors and ticket sales, and driven by a passion for great products and the people who build them.</p>
 						<p class="last">This site was designed by <a href="http://thisiscapra.com/"><img src="images/capra-logo.png" width="186" height="57" alt="Capra" /></a></p>
 						
 					</div><!-- end indent -->
