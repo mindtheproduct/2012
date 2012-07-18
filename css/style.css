@@ -355,6 +355,7 @@ start-page
 #start-page .mediapartner {
   text-align: left;
   float: left;
+  margin: 0px 0px 0px 100px;
 }
 #start-page .mediapartner a.text-indent {
   text-indent: -9999;
