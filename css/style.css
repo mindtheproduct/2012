@@ -333,6 +333,7 @@ start-page
 ------------------------------ */
 #start-page .sponsors-small {
   text-align: left;
+  float: left;
 }
 #start-page .sponsors-small a.text-indent {
   text-indent: -9999;
@@ -343,12 +344,33 @@ start-page
   font-family: "futura-pt", arial, sans-serif;
   font-style: normal;
   font-weight: 500;
-  margin: 40px 0 15px 0;
+  margin: 20px 0 15px 0;
 }
 #start-page .sponsors-small img {
   margin-bottom: 14px;
 }
 #start-page .sponsors-small img.last {
+  margin-left: 25px;
+}
+#start-page .mediapartner {
+  text-align: left;
+  float: left;
+}
+#start-page .mediapartner a.text-indent {
+  text-indent: -9999;
+}
+#start-page .mediapartner p {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-family: "futura-pt", arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  margin: 20px 0 15px 0;
+}
+#start-page .mediapartner img {
+  margin-bottom: 14px;
+}
+#start-page .mediapartner img.last {
   margin-left: 25px;
 }
 /* ------------------------------

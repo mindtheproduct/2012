@@ -117,7 +117,12 @@
 						<div class="sponsors-small">
 							<p>Platinum Sponsors</p>
 							<img src="images/the-guardian.png" width="230" height="41" alt="The Guardian" />
-							<img class="last" src="images/ebay-small.png" width="230" height="52" alt="eBay" />
+							<br>
+							<img src="images/ebay-small.png" width="230" height="52" alt="eBay" />
+						</div><!-- end sponsors-small -->
+						<div class="mediapartner">
+							<p>Media Partner</p>
+							<img src="images/gigaom.png" width="180" height="27" alt="GigaOM" />
 						</div><!-- end sponsors-small -->
 					</div><!-- end indent -->
 				</div><!-- end content -->
