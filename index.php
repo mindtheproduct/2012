@@ -251,7 +251,7 @@
 					 <h3>Panelists</h3>
 					 <div class="panel-member">
 					   <div class="white-bg">
-							<img src="images/nic_newman.png" width="127" height="127" alt="Tom Hulme" />
+							<img src="images/nic_newman.png" width="127" height="127" alt="Nic Newman" />
 						</div>
 						<h4>Nic Newman</h4>
 						<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>
@@ -259,7 +259,7 @@
 					 
 					 <div class="panel-member">
 					   <div class="white-bg">
-							<img src="images/tanya_cordrey.png" width="127" height="127" alt="Tom Hulme" />
+							<img src="images/tanya_cordrey.png" width="127" height="127" alt="Tanya Cordrey" />
 						</div>
 						<h4>Tanya Cordrey</h4>
 						<p class="speciality">Digital Development Director, Guardian</p>
@@ -267,7 +267,7 @@
 					 
 					 <div class="panel-member">
 					   <div class="white-bg">
-							<img src="images/diana_stepner.png" width="127" height="127" alt="Tom Hulme" />
+							<img src="images/diana_stepner.png" width="127" height="127" alt="Diana Stepner" />
 						</div>
 						<h4>Diana Stepner</h4>
 						<p class="speciality">Head of Future Technologies, Pearson</p>
@@ -276,10 +276,10 @@
 
 					 <div class="panel-member">
 					   <div class="white-bg">
-							<img src="images/tbc-panel.png" width="127" height="127" alt="Tom Hulme" />
+							<img src="images/bobbie_johnson.png" width="127" height="127" alt="Bobbie Johnson" />
 						</div>
-						<h4>TBA</h4>
-						<!--<p class="speciality">Visiting Fellow, Reuters Institute of Journalism</p>-->
+						<h4>Bobbie Johnson</h4>
+						<p class="speciality">European Editor, GigaOM</p>
 					 </div><!-- end panel-member -->
 					 
 					 <!--
