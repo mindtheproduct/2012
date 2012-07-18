@@ -116,13 +116,13 @@
 						<p class="intro">MindtheProduct 2012 is the first conference of its kind - bringing together product management leaders from around the world to explore the intersection of design, technology and business - the business of building great products.</p>
 						<div class="sponsors-small">
 							<p>Platinum Sponsors</p>
-							<img src="images/the-guardian.png" width="230" height="41" alt="The Guardian" />
+							<a href="http://www.guardian.co.uk" title="The Guardian"><img src="images/the-guardian.png" width="230" height="41" alt="The Guardian" /></a>
 							<br>
-							<img src="images/ebay-small.png" width="230" height="52" alt="eBay" />
+							<a href="http://www.ebay.co.uk" title="eBay"><img src="images/ebay-small.png" width="230" height="52" alt="eBay" /></a>
 						</div><!-- end sponsors-small -->
 						<div class="mediapartner">
 							<p>Media Partner</p>
-							<img src="images/gigaom.png" width="180" height="28" alt="GigaOM" />
+							<a href="http://gigaom.com" title="GigaOM"><img src="images/gigaom.png" width="180" height="28" alt="GigaOM" /></a>
 						</div><!-- end sponsors-small -->
 					</div><!-- end indent -->
 				</div><!-- end content -->
