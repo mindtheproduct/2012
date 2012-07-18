@@ -122,7 +122,7 @@
 						</div><!-- end sponsors-small -->
 						<div class="mediapartner">
 							<p>Media Partner</p>
-							<img src="images/gigaom.png" width="180" height="27" alt="GigaOM" />
+							<img src="images/gigaom.png" width="180" height="28" alt="GigaOM" />
 						</div><!-- end sponsors-small -->
 					</div><!-- end indent -->
 				</div><!-- end content -->
