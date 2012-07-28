@@ -416,11 +416,11 @@
 						<p>Sponsored by</p>
 						<div class="sponsor-large"><img src="images/the-guardian-large.png" width="310" height="55" alt="The Guardian" /></div>
 						<div class="sponsor-large space"><img src="images/ebay.png" width="310" height="70" alt="eBay" /></div>
-						<div class="sponsor-medium"></div>
+						<div class="sponsor-medium"><img src="images/ticketmaster.png" width="142" height="50" alt="ticketmaster" /></div>
 						<div class="sponsor-medium right"></div>
 						<div class="sponsor-medium"><img src="images/pearson.png" width="142" height="50" alt="Pearson" /></div>
-						<div class="sponsor-medium right"><img src="images/ticketmaster.png" width="142" height="50" alt="ticketmaster" /></div>
-						<div class="sponsor-medium space right"><img src="images/unison.png" width="142" height="50" alt="Unison" /></div>
+						<div class="sponsor-medium right"></div>
+						<div class="sponsor-medium space right"></div>
 						<div class="sponsor-medium space"><img src="images/skype.png" width="142" height="50" alt="Skype" /></div>
 						<div class="sponsor-small"><img src="images/d-labs.png" width="80" height="35" alt="D-Labs" /></div>
 						<div class="sponsor-small middle"><img src="images/balsamiq.png" width="80" height="35" alt="Balsamiq" /></div>
