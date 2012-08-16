@@ -417,7 +417,7 @@
 						<div class="sponsor-large"><img src="images/the-guardian-large.png" width="310" height="55" alt="The Guardian" /></div>
 						<div class="sponsor-large space"><img src="images/ebay.png" width="310" height="70" alt="eBay" /></div>
 						<div class="sponsor-medium"><img src="images/ticketmaster.png" width="142" height="50" alt="ticketmaster" /></div>
-						<div class="sponsor-medium right"></div>
+						<div class="sponsor-medium right"><img src="images/product-focus.png" width="142" height="50" alt="Product Focus" /></div>
 						<div class="sponsor-medium"><img src="images/pearson.png" width="142" height="50" alt="Pearson" /></div>
 						<div class="sponsor-medium right"></div>
 						<div class="sponsor-medium space right"></div>
@@ -425,8 +425,8 @@
 						<div class="sponsor-small"><img src="images/d-labs.png" width="80" height="35" alt="D-Labs" /></div>
 						<div class="sponsor-small middle"><img src="images/balsamiq.png" width="80" height="35" alt="Balsamiq" /></div>
 						<div class="sponsor-small right"><img src="images/orrick.png" width="80" height="35" alt="Orrick LLP" /></div>
-						<div class="sponsor-small"></div>
-						<div class="sponsor-small middle"><a href="http://www.prodpad.com/" title"ProdPad Product Management Tool"><img src="images/prodpad.png" width="80" height="35" alt="ProdPad" /></a></div>
+						<div class="sponsor-small"><a href="http://www.prodpad.com/" title"ProdPad Product Management Tool"><img src="images/prodpad.png" width="80" height="35" alt="ProdPad" /></a></div>
+						<div class="sponsor-small middle"><img src="images/blackblot.png" width="80" height="35" alt="Blackblot - Product Management Expertise" /></div>
 						<div class="sponsor-small right"></div>
 					</div>
 
