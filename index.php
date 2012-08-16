@@ -426,7 +426,7 @@
 						<div class="sponsor-small middle"><img src="images/balsamiq.png" width="80" height="35" alt="Balsamiq" /></div>
 						<div class="sponsor-small right"><img src="images/orrick.png" width="80" height="35" alt="Orrick LLP" /></div>
 						<div class="sponsor-small"><a href="http://www.prodpad.com/" title"ProdPad Product Management Tool"><img src="images/prodpad.png" width="80" height="35" alt="ProdPad" /></a></div>
-						<div class="sponsor-small middle"><img src="images/blackblot.jpg" width="80" height="35" alt="Blackblot - Product Management Expertise" /></div>
+						<div class="sponsor-small middle"><img src="images/blackblot.png" width="80" height="35" alt="Blackblot - Product Management Expertise" /></div>
 						<div class="sponsor-small right"></div>
 					</div>
 
