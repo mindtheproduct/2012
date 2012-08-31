@@ -419,8 +419,8 @@
 						<div class="sponsor-medium"><img src="images/ticketmaster.png" width="142" height="50" alt="ticketmaster" /></div>
 						<div class="sponsor-medium right"><img src="images/product-focus.png" width="142" height="50" alt="Product Focus" /></div>
 						<div class="sponsor-medium"><img src="images/pearson.png" width="142" height="50" alt="Pearson" /></div>
-						<div class="sponsor-medium right"></div>
-						<div class="sponsor-medium space right"></div>
+						<div class="sponsor-medium right"><img src="images/yammer.png" width="142" height="50" alt="Pearson" /></div>
+						<div class="sponsor-medium space right"><img src="images/skyscanner.png" width="142" height="50" alt="Pearson" /></div>
 						<div class="sponsor-medium space"><img src="images/skype.png" width="142" height="50" alt="Skype" /></div>
 						<div class="sponsor-small"><img src="images/d-labs.png" width="80" height="35" alt="D-Labs" /></div>
 						<div class="sponsor-small middle"><img src="images/balsamiq.png" width="80" height="35" alt="Balsamiq" /></div>
