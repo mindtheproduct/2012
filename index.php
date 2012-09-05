@@ -348,7 +348,7 @@
 						</tr>
 						<tr>
 							<td>11.00</td>
-							<td>Matt &amp; Hannah</td>
+							<td>Tom Chi</td>
 						</tr>
 						<tr>
 							<td>11.30</td>
@@ -368,11 +368,11 @@
 						</tr>
 						<tr>
 							<td>14.30</td>
-							<td>Tom Chi</td>
+							<td>Charles Adler</td>
 						</tr>
 						<tr>
 							<td>15.00</td>
-							<td>Charles Adler</td>
+							<td>Matt &amp; Hannah</td>
 						</tr>
 						<tr>
 							<td>15.30</td>
