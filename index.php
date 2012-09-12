@@ -274,13 +274,7 @@
 					 </div><!-- end panel-member -->
 					 
 
-					 <div class="panel-member">
-					   <div class="white-bg">
-							<img src="images/bobbie_johnson.png" width="127" height="127" alt="Bobbie Johnson" />
-						</div>
-						<h4>Bobbie Johnson</h4>
-						<p class="speciality">European Editor, GigaOM</p>
-					 </div><!-- end panel-member -->
+
 					 
 					 <!--
 
@@ -395,7 +389,7 @@
 							<td>Closing remarks</td>
 						</tr>
 						<tr>
-							<td class="space">19.00</td>
+							<td class="space">18.00</td>
 							<td class="space">After party!</td>
 						</tr>
 					</table>
